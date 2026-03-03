@@ -17,7 +17,7 @@ jobs:
   osint-scan:
     runs-on: ubuntu-latest
     env:
-      ALERT_ASSIGNEE: "your-github-username"   # ← set this to your actual GitHub username
+      ALERT_ASSIGNEE: "CSMurray-CISA"   # ← set this
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -36,6 +36,23 @@ jobs:
         env:
           KEV_FEED_URL: ${{ secrets.KEV_FEED_URL }}
         run: python scripts/osint_scraper.py
+
+      - name: Commit data if changed
+        id: commit
+        run: |
+          if [[ -n "$(git status --porcelain data/)" ]]; then
+            git config user.name "OSINT Bot"
+            git config user.email "actions@github.com"
+            git add data/
+            git commit -m "OSINT update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo "did_commit=true" >> $GITHUB_OUTPUT
+          else
+            echo "did_commit=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Push (if commit happened)
+        if: steps.commit.outputs.did_commit == 'true'
+        run: git push
 
       - name: Prepare Markdown summary
         id: summary
@@ -60,18 +77,6 @@ jobs:
           else
             echo "has_updates=false" >> $GITHUB_OUTPUT
           fi
-
-      - name: Commit data (only on update)
-        if: steps.summary.outputs.has_updates == 'true'
-        run: |
-          git config user.name "OSINT Bot"
-          git config user.email "actions@github.com"
-          git add data/
-          git commit -m "OSINT update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-
-      - name: Push data
-        if: steps.summary.outputs.has_updates == 'true'
-        run: git push
 
       - name: Create or comment on alert issue (only on update)
         if: steps.summary.outputs.has_updates == 'true'
@@ -113,8 +118,7 @@ jobs:
         if: steps.summary.outputs.has_updates == 'true'
         run: |
           python scripts/build_pages.py
-          # Commit docs only if changed
-          if [[ -n "$(git status --porcelain docs/)" ]]; then
+          if [[ -n "$(git.status --porcelain docs/)" ]]; then
             git add docs/
             git commit -m "Pages update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           fi
