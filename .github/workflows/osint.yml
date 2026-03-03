@@ -9,11 +9,16 @@ permissions:
   contents: write
   issues: write
 
+# Optional: avoid overlapping runs if a previous one is still executing
+concurrency:
+  group: osint-monitor
+  cancel-in-progress: false
+
 jobs:
   osint-scan:
     runs-on: ubuntu-latest
     env:
-      ALERT_ASSIGNEE: "your-github-username"   # <— set this
+      ALERT_ASSIGNEE: "your-github-username"   # ← set this to your actual GitHub username
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -56,22 +61,22 @@ jobs:
           if grep -q "New non‑KEV exploitation activity detected" data/email_summary.txt; then
             echo "has_updates=true" >> $GITHUB_OUTPUT
             # Convert the plain-text summary to Markdown with a header and mention
-            echo "### New non‑KEV exploitation activity" > data/comment.md
-            echo "" >> data/comment.md
-            echo "**Run:** ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}" >> data/comment.md
-            echo "" >> data/comment.md
-            echo "$(date -u +'%Y-%m-%d %H:%M:%SZ') UTC" >> data/comment.md
-            echo "" >> data/comment.md
-            echo "" >> data/comment.md
-            # Optional @mention to ensure email notification
-            if [ -n "${ALERT_ASSIGNEE}" ]; then
-              echo "cc @${ALERT_ASSIGNEE}" >> data/comment.md
-              echo "" >> data/comment.md
-            fi
-            # Append the plain summary as a code block for readability
-            echo '```text' >> data/comment.md
-            cat data/email_summary.txt >> data/comment.md
-            echo '```' >> data/comment.md
+            {
+              echo "### New non‑KEV exploitation activity"
+              echo
+              echo "**Run:** ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+              echo
+              echo "$(date -u +'%Y-%m-%d %H:%M:%SZ') UTC"
+              echo
+              # Optional @mention to ensure email notification
+              if [ -n "${ALERT_ASSIGNEE}" ]; then
+                echo "cc @${ALERT_ASSIGNEE}"
+                echo
+              fi
+              echo '```text'
+              cat data/email_summary.txt
+              echo '```'
+            } > data/comment.md
           else
             echo "has_updates=false" >> $GITHUB_OUTPUT
           fi
@@ -86,11 +91,12 @@ jobs:
             const owner = context.repo.owner;
             const repo = context.repo.repo;
 
-            // Find existing issue titled "OSINT Monitor Alerts"
+            // Get open issues with the osint-monitor label
             const { data: issues } = await github.rest.issues.listForRepo({
               owner, repo, state: 'open', labels: 'osint-monitor'
             });
 
+            // Reuse a single tracking issue
             let issue = issues.find(i => i.title === 'OSINT Monitor Alerts');
             if (!issue) {
               const created = await github.rest.issues.create({
@@ -103,14 +109,27 @@ jobs:
               issue = created.data;
             }
 
-            // Add comment
+            // Post the comment
             await github.rest.issues.createComment({
               owner, repo, issue_number: issue.number, body
             });
 
-            // Ensure it stays assigned to you for notifications
+            // Keep it assigned (ensures notifications)
             if (process.env.ALERT_ASSIGNEE) {
               await github.rest.issues.addAssignees({
                 owner, repo, issue_number: issue.number, assignees: [process.env.ALERT_ASSIGNEE]
               });
             }
+
+      - name: Build GitHub Pages artifacts
+        if: steps.commit.outputs.did_commit == 'true'
+        run: |
+          python scripts/build_pages.py
+          # Commit docs only if changed
+          if [[ -n "$(git status --porcelain docs/)" ]]; then
+            git add docs/
+            git commit -m "Pages update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          fi
+
+      - name: Push pages
+        if: steps.commit.outputs.did_commit == 'true'
