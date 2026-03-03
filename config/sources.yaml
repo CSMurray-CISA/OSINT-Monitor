@@ -1,0 +1,23 @@
+rss:
+  - name: Rapid7 Blog
+    url: https://www.rapid7.com/blog/rss/
+  - name: Tenable Blog
+    url: https://www.tenable.com/blog/rss.xml
+  - name: Qualys Blog
+    url: https://blog.qualys.com/feed
+  - name: Palo Alto Networks Unit42
+    url: https://unit42.paloaltonetworks.com/feed/
+  - name: Huntress Labs Blog
+    url: https://www.huntress.com/blog/rss.xml
+
+json:
+  # Examples (uncomment & tailor as needed)
+  # - name: VulnCheck (Example)
+  #   url: https://api.vulncheck.com/feed/recent.json
+  #   headers: { "Authorization": "Bearer ${VULNCHECK_TOKEN}" }
+
+html:
+  # Use only for sites without feeds (mind ToS/robots, scraper is throttled).
+  # - name: ZDI Blog (HTML fallback)
+  #   url: https://www.zerodayinitiative.com/blog/
+  # - name: Exploit-DB News
