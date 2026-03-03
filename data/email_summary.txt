@@ -1,0 +1,2926 @@
+New non‑KEV exploitation activity detected:
+
+- [Rapid7 Blog] Claude Code Security and the AI Market Reaction: What Security Leaders should Actually Focus on
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/ai-claude-code-security-market-reaction-security-leaders
+
+- [Rapid7 Blog] Save the Date: Rapid7’s 2026 Global Cybersecurity Summit | May 12–13
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/it-2026-global-cybersecurity-summit-may-12-13
+
+- [Rapid7 Blog] Metasploit Wrap-Up 02/27/2026
+  Type: mention
+  CVEs: CVE-2010-2063, CVE-2024-37032, CVE-2026-1731, CVE-2026-2329
+  Link: https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-02-27-2026
+
+- [Rapid7 Blog] Before the Breach: When digital footprints become a strategic cyber risk
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/tr-data-breach-digital-footprints-strategic-cyber-risk-report
+
+- [Rapid7 Blog] Critical Cisco Catalyst Vulnerability Exploited in the wild (CVE-2026-20127)
+  Type: verified/active
+  CVEs: CVE-2022-20775, CVE-2026-20127
+  Link: https://www.rapid7.com/blog/post/etr-critical-cisco-catalyst-vulnerability-exploited-in-the-wild-cve-2026-20127
+
+- [Rapid7 Blog] Your MRI is Online: The Hidden Risks of Exposed DICOM Servers in UK Healthcare
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/tr-mri-hidden-risks-exposed-dicom-servers-uk-healthcare
+
+- [Rapid7 Blog] The Post-RAMP Era: Allegations, Fragmentation, and the Rebuilding of the Ransomware Underground
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/tr-post-ramp-allegations-fragmentation-ransomware-underground-rebuild
+
+- [Rapid7 Blog] Multi-Tenant API Access: Centralize, Scale, and Secure Your Operations
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/pt-multi-tenant-api-access-centralized-scaled-secured-operations
+
+- [Rapid7 Blog] New Report: The Digital Footprints of Many Executives Can Leave Their Companies Seriously Exposed
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/tr-new-rapid7-report-digital-executive-footprints-exposing-organizations
+
+- [Rapid7 Blog] Alert Fatigue Isn’t Going Away. Here’s How Modern SOCs Are Fighting Back
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/dr-modern-soc-vs-alert-fatigue-siem-ebook
+
+- [Rapid7 Blog] Metasploit Wrap-Up 02/20/2026
+  Type: mention
+  CVEs: CVE-2025-62521, CVE-2025-7441
+  Link: https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-02-20-2026
+
+- [Rapid7 Blog] Hacktivism and the Winter Olympics 2026: What We’re Seeing and What it Signals
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/it-hacktivism-winter-olympics-2026
+
+- [Rapid7 Blog] The Phone is Listening: A Cold War–Style Vulnerability in Modern VoIP
+  Type: mention
+  CVEs: CVE-2026-2329
+  Link: https://www.rapid7.com/blog/post/ve-phone-listening-cold-war-vulnerability-modern-voip
+
+- [Rapid7 Blog] CVE-2026-2329: Critical Unauthenticated Stack Buffer Overflow in Grandstream GXP1600 VoIP Phones (FIXED)
+  Type: likely/poc
+  CVEs: CVE-2026-2329
+  Link: https://www.rapid7.com/blog/post/ve-cve-2026-2329-critical-unauthenticated-stack-buffer-overflow-in-grandstream-gxp1600-voip-phones-fixed
+
+- [Rapid7 Blog] Building the Future of Cloud Security: Rapid7 Recognized in Cloud Native Application Protection, Q1 2026
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/cds-cloud-security-rapid7-recognized-cloud-native-application-protection-cnapp-2026
+
+- [Rapid7 Blog] Metasploit Wrap-Up 02/13/2026
+  Type: verified/active
+  CVEs: CVE-2025-14558, CVE-2025-40536, CVE-2025-40551, CVE-2026-1281, CVE-2026-1340, CVE-2026-24061
+  Link: https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-02-13-2026
+
+- [Rapid7 Blog] Carding-as-a-Service: The Underground Market of Stolen Cards
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/tr-carding-as-a-service-stolen-credit-cards-fraud
+
+- [Rapid7 Blog] Patch Tuesday - February 2026
+  Type: verified/active
+  CVEs: CVE-2023-2804, CVE-2026-20805, CVE-2026-20841, CVE-2026-20846, CVE-2026-21218, CVE-2026-21222, CVE-2026-21228, CVE-2026-21229, CVE-2026-21231, CVE-2026-21232, CVE-2026-21234, CVE-2026-21235, CVE-2026-21236, CVE-2026-21237, CVE-2026-21238, CVE-2026-21239, CVE-2026-21240, CVE-2026-21241, CVE-2026-21242, CVE-2026-21243, CVE-2026-21244, CVE-2026-21245, CVE-2026-21246, CVE-2026-21247, CVE-2026-21248, CVE-2026-21249, CVE-2026-21250, CVE-2026-21251, CVE-2026-21253, CVE-2026-21255, CVE-2026-21256, CVE-2026-21257, CVE-2026-21258, CVE-2026-21259, CVE-2026-21260, CVE-2026-21261, CVE-2026-21508, CVE-2026-21510, CVE-2026-21511, CVE-2026-21512, CVE-2026-21513, CVE-2026-21514, CVE-2026-21516, CVE-2026-21517, CVE-2026-21518, CVE-2026-21519, CVE-2026-21522, CVE-2026-21523, CVE-2026-21525, CVE-2026-21527, CVE-2026-21528, CVE-2026-21529, CVE-2026-21531, CVE-2026-21533, CVE-2026-21537, CVE-2026-23655
+  Link: https://www.rapid7.com/blog/post/em-patch-tuesday-february-2026
+
+- [Rapid7 Blog] Measuring AI Security: Separating Signal from Panic
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/tr-measuring-ai-security-mcp-exposure
+
+- [Rapid7 Blog] CVE-2026-1731: Critical Unauthenticated Remote Code Execution in BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA)
+  Type: likely/poc
+  CVEs: CVE-2024-12356, CVE-2024-12686, CVE-2025-1094, CVE-2026-1731
+  Link: https://www.rapid7.com/blog/post/etr-cve-2026-1731-critical-unauthenticated-remote-code-execution-rce-beyondtrust-remote-support-rs-privileged-remote-access-pra
+
+- [Qualys Blog] Cyber Essentials Plus in 2026: Strengthened Controls, UK Cyber Reality & How Qualys Supports Compliance
+  Type: none
+  CVEs: N/A
+  Link: https://blog.qualys.com/category/product-tech
+
+- [Qualys Blog] How Security Tool Misuse Is Reshaping Cloud Compromise
+  Type: none
+  CVEs: N/A
+  Link: https://blog.qualys.com/category/qualys-insights
+
+- [Qualys Blog] Microsoft and Adobe Patch Tuesday, February 2026 Security Update Review
+  Type: likely/poc
+  CVEs: N/A
+  Link: https://blog.qualys.com/category/vulnerabilities-threat-research
+
+- [Unit42 (Palo Alto Networks)] Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild
+  Type: none
+  CVEs: N/A
+  Link: https://unit42.paloaltonetworks.com/ai-agent-prompt-injection/
+
+- [Unit42 (Palo Alto Networks)] Threat Brief: March 2026 Escalation of Cyber Risk Related to Iran
+  Type: none
+  CVEs: N/A
+  Link: https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/
+
+- [Unit42 (Palo Alto Networks)] Taming Agentic Browsers: Vulnerability in Chrome Allowed Extensions to Hijack New Gemini Panel
+  Type: mention
+  CVEs: CVE-2026-0628
+  Link: https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/
+
+- [Unit42 (Palo Alto Networks)] Bring the Fight to the Edge: Turning Time Into an Advantage in OT Security
+  Type: none
+  CVEs: N/A
+  Link: https://unit42.paloaltonetworks.com/ot-edge-security/
+
+- [Unit42 (Palo Alto Networks)] VShell and SparkRAT Observed in Exploitation of BeyondTrust Critical Vulnerability (CVE-2026-1731)
+  Type: mention
+  CVEs: CVE-2026-1731
+  Link: https://unit42.paloaltonetworks.com/beyondtrust-cve-2026-1731/
+
+- [Unit42 (Palo Alto Networks)] Critical Vulnerabilities in Ivanti EPMM Exploited
+  Type: likely/poc
+  CVEs: CVE-2026-1281, CVE-2026-1340
+  Link: https://unit42.paloaltonetworks.com/ivanti-cve-2026-1281-cve-2026-1340/
+
+- [Unit42 (Palo Alto Networks)] Phishing on the Edge of the Web and Mobile Using QR Codes
+  Type: none
+  CVEs: N/A
+  Link: https://unit42.paloaltonetworks.com/qr-codes-as-attack-vector/
+
+- [Unit42 (Palo Alto Networks)] Nation-State Actors Exploit Notepad++ Supply Chain
+  Type: none
+  CVEs: N/A
+  Link: https://unit42.paloaltonetworks.com/notepad-infrastructure-compromise/
+
+- [Unit42 (Palo Alto Networks)] A Peek Into Muddled Libra’s Operational Playbook
+  Type: none
+  CVEs: N/A
+  Link: https://unit42.paloaltonetworks.com/muddled-libra-ops-playbook/
+
+- [Unit42 (Palo Alto Networks)] Novel Technique to Detect Cloud Threat Actor Operations
+  Type: none
+  CVEs: N/A
+  Link: https://unit42.paloaltonetworks.com/tracking-threat-groups-through-cloud-logging/
+
+- [Unit42 (Palo Alto Networks)] The Shadow Campaigns: Uncovering Global Espionage
+  Type: none
+  CVEs: N/A
+  Link: https://unit42.paloaltonetworks.com/shadow-campaigns-uncovering-global-espionage/
+
+- [Unit42 (Palo Alto Networks)] Why Smart People Fall For Phishing Attacks
+  Type: none
+  CVEs: N/A
+  Link: https://unit42.paloaltonetworks.com/psychology-of-phishing/
+
+- [Unit42 (Palo Alto Networks)] Privileged File System Vulnerability Present in a SCADA System
+  Type: mention
+  CVEs: CVE-2025-0921
+  Link: https://unit42.paloaltonetworks.com/iconics-suite-cve-2025-0921/
+
+- [Unit42 (Palo Alto Networks)] Understanding the Russian Cyberthreat to the 2026 Winter Olympics
+  Type: none
+  CVEs: N/A
+  Link: https://unit42.paloaltonetworks.com/russian-cyberthreat-2026-winter-olympics/
+
+- [Unit42 (Palo Alto Networks)] Happy 9th Anniversary, CTA: A Celebration of Collaboration in Cyber Defense
+  Type: none
+  CVEs: N/A
+  Link: https://unit42.paloaltonetworks.com/cta-9th-anniversary/
+
+- [Huntress Labs Blog] They Got In Through SonicWall. Then They Tried to Kill Every Security Tool
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/encase-byovd-edr-killer
+
+- [Huntress Labs Blog] The (!FALSE) Pattern: How SOAPHound Queries Disappear Before They Hit Your Logs
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ldap-active-directory-detection-part-four
+
+- [Huntress Labs Blog] How Huntress Managed ITDR's New Incident Report Timeline Changes Response
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-managed-itdr-incident-report-timeline-response
+
+- [Huntress Labs Blog] Huntress Catches SmarterMail Account Takeover Leading to RCE
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/smartermail-account-takeover-leading-to-rce
+
+- [Huntress Labs Blog] How Hacked Construction Apps Are Bringing Down Jobsite Security
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/hacked-construction-apps-bringing-down-jobsite-security
+
+- [Huntress Labs Blog] Dissecting CrashFix: KongTuke's New Toy
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/malicious-browser-extention-crashfix-kongtuke
+
+- [Huntress Labs Blog] SDFlags: The Log Field I Wasn't Looking at That Revealed How BloodHound Really Works
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ldap-active-directory-detection-part-three
+
+- [Huntress Labs Blog] Cross-Platform Unity in EDR
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/pursuing-parity-cross-platform-unity
+
+- [Huntress Labs Blog] Reflecting on AI in 2025: Faster Attacks, Same Old Tradecraft
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ai-2025-faster-attacks-same-tradecraft
+
+- [Huntress Labs Blog] ESXi Exploitation in the Wild
+  Type: likely/poc
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/esxi-vm-escape-exploit
+
+- [Huntress Labs Blog] Rogue RMMs: Common Social Engineering Tactics We Saw in 2025
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/rogue-screenconnect-social-engineering-tactics-2025
+
+- [Huntress Labs Blog] The LDAP Whitespace Problem: Making Sigma Rules Work in Production
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ldap-active-directory-detection-part-two
+
+- [Huntress Labs Blog] Tradecraft Tuesday Recap: React2Shell, ClickFix, and the Rise of AI Scams
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/holiday-security-tips-for-family-friends
+
+- [Huntress Labs Blog] Rising Supply Chain Attacks on Cybersecurity Ecosystems | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/rising-supply-chain-attacks-cybersecurity-ecosystems
+
+- [Huntress Labs Blog] Trial, Error, and Typos: Why Some Malware Attacks Aren't as 'Sophisticated' as You Think
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/trial-error-typos-malware-attacks-sophisticated
+
+- [Huntress Labs Blog] Securing Your Business: The Vital Role of Cyber Insurance | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/securing-your-business-the-vital-role-of-cyber-insurance
+
+- [Huntress Labs Blog] Active Exploitation of Gladinet CentreStack/Triofox Insecure Cryptography Vulnerability
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/active-exploitation-gladinet-centrestack-triofox-insecure-cryptography-vulnerability
+
+- [Huntress Labs Blog] A Series of Unfortunate (RMM) Events
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/series-of-unfortunate-rmm-events
+
+- [Huntress Labs Blog] The OID Problem: Writing LDAP Detections That Actually Work
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ldap-active-directory-detection-part-one
+
+- [Huntress Labs Blog] CMMC: The Opportunity ($$) and Challenge for MSPs
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cmmc-opportunity-cost-msp-challenges
+
+- [Huntress Labs Blog] AI-Poisoning & AMOS Stealer: How Trust Became the Biggest Mac Threat
+  Type: rumor
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust
+
+- [Huntress Labs Blog] Announcing the Latest Report on Huntress Managed SAT: Key Findings and Insights
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-managed-security-awareness-training-expert-review
+
+- [Huntress Labs Blog] PeerBlight Linux Backdoor Exploits React2Shell CVE-2025-55182
+  Type: mention
+  CVEs: CVE-2025-55182
+  Link: https://www.huntress.com/blog/peerblight-linux-backdoor-exploits-react2shell
+
+- [Huntress Labs Blog] Hardening the Hypervisor: Practical Defenses Against Ransomware Targeting ESXi
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/hypervisor-defenses-against-ransomware-targeting-esxi
+
+- [Huntress Labs Blog] Five Shady Phishing Email Techniques We Spotted in 2025
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/five-shady-phishing-email-techniques-we-spotted-in-2025
+
+- [Huntress Labs Blog] What Does the Dark Web Look Like? Pulling Back the Curtain | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/pulling-back-the-curtain-a-journey-through-the-dark-web
+
+- [Huntress Labs Blog] Velociraptor Misuse, Pt. II: The Eye of the Storm
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/velociraptor-misuse-part-two-eye-of-the-storm
+
+- [Huntress Labs Blog] Datacenter Infrastructure & Identity Attacks
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/datacenter-infrastructure-and-identity-attacks
+
+- [Huntress Labs Blog] What Is Cyber Threat Hunting? Types, Tricks, and Tips | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-threat-hunting
+
+- [Huntress Labs Blog] What Is Account Takeover Fraud? A Comprehensive Guide | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/account-takeover-what-it-is-and-how-to-protect-against-it
+
+- [Huntress Labs Blog] #ShadyHacks with Kyle Hanslovan
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/shadyhacks-with-kyle-hanslovan
+
+- [Huntress Labs Blog] 7 Benefits of Outsourcing Cybersecurity Services for Your Business | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/7-benefits-of-outsourcing-cybersecurity-services
+
+- [Huntress Labs Blog] ClickFix Gets Creative: Malware Buried in Images
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/clickfix-malware-buried-in-images
+
+- [Huntress Labs Blog] Velociraptor WSUS Exploitation, Pt. I: WSUS-Up?
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/velociraptor-misuse-part-one-wsus-up
+
+- [Huntress Labs Blog] Huntress Acquires Inside Agent
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-acquires-inside-agent
+
+- [Huntress Labs Blog] Huntress Lands on the Microsoft Marketplace
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-available-on-marketplace-microsoft
+
+- [Huntress Labs Blog] What Should A Modern Cybersecurity Stack Look Like? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-should-a-modern-cybersecurity-stack-look-like
+
+- [Huntress Labs Blog] Threats Plague Educational Organizations
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threats-against-education
+
+- [Huntress Labs Blog] MFA for Business: Benefits, Methods & Why It Still Matters
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/demystifying-multi-factor-authentication-for-businesses
+
+- [Huntress Labs Blog] Deobfuscating Files for Flags: Huntress CTF 2025 Retro
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-ctf-2025-retro
+
+- [Huntress Labs Blog] Gootloader | Threat Detection Overview
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/gootloader-threat-detection-woff2-obfuscation
+
+- [Huntress Labs Blog] Huntress and DEFCERT Are Streamlining CMMC Assessment Prep
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-defcert-streamline-cmmc-assessment-prep
+
+- [Huntress Labs Blog] Live Hacking Into Microsoft 365 with Kyle Hanslovan
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/live-hacking-microsoft-365-kyle-hanslovan
+
+- [Huntress Labs Blog] What Is the Zero Trust Security Model? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-the-zero-trust-security-model
+
+- [Huntress Labs Blog] Exploitation of Windows Server Update Services Remote Code Execution Vulnerability (CVE-2025-59287)
+  Type: mention
+  CVEs: CVE-2025-59287
+  Link: https://www.huntress.com/blog/exploitation-of-windows-server-update-services-remote-code-execution-vulnerability
+
+- [Huntress Labs Blog] Looking Through a Pinhole at a Qilin Ransomware Attack
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/looking-at-qilin-ransomware-attack
+
+- [Huntress Labs Blog] Dealing with Imperfect Telemetry: Techniques for Effective Incident Response
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/imperfect-telemetry-techniques-effective-incident-response
+
+- [Huntress Labs Blog] Dispelling Ransomware Deployment Myths
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/dispelling-ransomware-deployment-myths
+
+- [Huntress Labs Blog] CMMC Final Rule: A Guide for DoD Subcontractors
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cmmc-final-rule-guide-for-dod-subcontractors
+
+- [Huntress Labs Blog] Active Exploitation of Gladinet CentreStack and Triofox Local File Inclusion Flaw
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/gladinet-centrestack-triofox-local-file-inclusion-flaw
+
+- [Huntress Labs Blog] The Crown Prince, Nezha: A New Tool Favored by China-Nexus Threat Actors
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/nezha-china-nexus-threat-actor-tool
+
+- [Huntress Labs Blog] How to Offend Your IT Team: Cybersecurity Tips
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/guide-for-security-unaware
+
+- [Huntress Labs Blog] Huntress Threat Advisory: Widespread SonicWall SSLVPN Compromise
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/sonicwall-sslvpn-compromise
+
+- [Huntress Labs Blog] Ditch Lame Cybersecurity Tips: These Best Practices Actually Work
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/lamest-cybersecurity-tips-what-to-do-instead
+
+- [Huntress Labs Blog] Build a Stronger Security Awareness Program with Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-a-security-awareness-training-program
+
+- [Huntress Labs Blog] 27 Biggest Data Breaches Globally (+ Lessons) 2025 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/biggest-data-breaches
+
+- [Huntress Labs Blog] Top Cyber Threat Trends of 2025 from Deepfakes, ClickFix, and ViewState Exploits
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/craftiest-trends-scams-tradecraft-2025
+
+- [Huntress Labs Blog] Be Offensive: A bold take on Cybersecurity Awareness Month.
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/be-offensive-cybersecurity-awareness-month
+
+- [Huntress Labs Blog] Don’t Sweat the ClickFix Techniques: Variants & Detection Evolution
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/dont-sweat-clickfix-techniques
+
+- [Huntress Labs Blog] A Vietnamese threat actor's shift from PXA Stealer to PureRAT
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/purerat-threat-actor-evolution
+
+- [Huntress Labs Blog] SAT effectiveness: Are security awareness training programs reducing human risk?
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/sat-programs-reduce-human-risk
+
+- [Huntress Labs Blog] What’s the Average Cost of a Data Breach in 2025? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/average-cost-of-a-data-breach
+
+- [Huntress Labs Blog] What Is Managed EDR?
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/value-of-telemetry-investigations
+
+- [Huntress Labs Blog] How Malicious Hackers Try to Infiltrate Your IT Team
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/malicious-hackers-impersonate-it-staff
+
+- [Huntress Labs Blog] The Dangers of Storing Unencrypted Passwords
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/dangers-of-storing-unencrypted-passwords
+
+- [Huntress Labs Blog] An Attacker’s Blunder Gave Us a Look Into Their Operations
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/rare-look-inside-attacker-operation
+
+- [Huntress Labs Blog] What Is Single Sign-On? The Practical Guide | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-sso-login
+
+- [Huntress Labs Blog] What Is Multi-Factor Authentication (MFA)? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-multi-factor-authentication
+
+- [Huntress Labs Blog] Obscura, an Obscure New Ransomware Variant
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/obscura-ransomware-variant
+
+- [Huntress Labs Blog] Debunking Microsoft 365 & Identity Myths
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/debunking-microsoft-365-identity-myths
+
+- [Huntress Labs Blog] From a Fake AnyDesk Installer to MetaStealer
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/fake-anydesk-clickfix-metastealer-malware
+
+- [Huntress Labs Blog] Join Huntress' John Hammond & Dave Kleinatland on a Journey of the Dark Web
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/journey-to-center-of-dark-web-tradecraft-tuesday-recap
+
+- [Huntress Labs Blog] Should MSPs Turn Off Google Gemini? Gemini Flaw Hijacks Email Summaries
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/google-gemini-phishing-risks
+
+- [Huntress Labs Blog] Ten Years of Resilience, Innovation & Community-Driven Defense
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-top-ten-decade-in-cybersecurity
+
+- [Huntress Labs Blog] Cephalus Ransomware: Don’t Lose Your Head
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cephalus-ransomware
+
+- [Huntress Labs Blog] Exposing Data Exfiltration: Detecting LOLBins, TTPs, and Ransomware Tactics
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/exposing-data-exfiltration-lolbin-ttp-binaries
+
+- [Huntress Labs Blog] 90 Business-Critical Data Breach Statistics [2025] | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/data-breach-statistics
+
+- [Huntress Labs Blog] Kawabunga, Dude, You’ve Been Ransomed!
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/kawalocker-ransomware-deployed
+
+- [Huntress Labs Blog] Active Exploitation of SonicWall VPNs
+  Type: verified/active
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/exploitation-of-sonicwall-vpn
+
+- [Huntress Labs Blog] Huntress for CMMC Compliance
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/navigating-cmmc-compliance-in-2025-how-huntress-helps
+
+- [Huntress Labs Blog] What Hollywood Movies Get Right (and Wrong) About Hacking
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/hollywood-hacking-scenes-we-loved-tradecraft-tuesday-recap
+
+- [Huntress Labs Blog] SSO vs. MFA: Key Differences, Compared + Explained | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/improving-security-with-sso-and-mfa
+
+- [Huntress Labs Blog] How to Identify Recruiting Scams and How Huntress Fights Back
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/identify-recruiting-scams-and-how-huntress-fights-back
+
+- [Huntress Labs Blog] The Commented Kill Chain: Why Old Ransomware Playbooks Never Die
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/why-old-ransomware-playbooks-never-die
+
+- [Huntress Labs Blog] Information to Insights: Intrusion Analysis Methodology
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/intrusion-analysis-methodology
+
+- [Huntress Labs Blog] Getting to the Crux (Ransomware) of the Matter
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/crux-ransomware
+
+- [Huntress Labs Blog] The Case For SigParser
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-case-for-sigparser
+
+- [Huntress Labs Blog] The 2025 Cybercrime Report: 9 Emerging Trends + Statistics | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cybercrime-trends
+
+- [Huntress Labs Blog] Remote Monitoring and Management Tools: A Gateway for Bulk Attacks on MSP Customers, Pt. 2
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/rmm-gateway-for-bulk-attacks-on-msp-customers-part-2
+
+- [Huntress Labs Blog] Huntress Collabs with Microsoft to Boost Business Security
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-microsoft-collaborate-to-boost-business-security
+
+- [Huntress Labs Blog] Wing FTP Server Remote Code Execution (CVE-2025-47812) Exploited in the Wild
+  Type: verified/active
+  CVEs: CVE-2025-47812
+  Link: https://www.huntress.com/blog/wing-ftp-server-remote-code-execution-cve-2025-47812-exploited-in-wild
+
+- [Huntress Labs Blog] Top Cyber Hygiene Tips for Better Digital Security
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-top-cyber-hygiene-tips
+
+- [Huntress Labs Blog] Remote Monitoring and Management Tools: A Gateway for Bulk Attacks on MSP Customers
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/remote-monitoring-management-tools-gateway-for-attacks-on-msp-pt-1
+
+- [Huntress Labs Blog] What the OpenAI Court Order Means for Cybersecurity and Privacy
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/openai-court-order-cybersecurity-privacy
+
+- [Huntress Labs Blog] AI: Friend or Faux in Cybersecurity? Huntress Tradecraft Tuesday
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ai-friend-faux-tradecraft-tuesday-recap
+
+- [Huntress Labs Blog] Recutting the Kerberos Diamond Ticket
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/recutting-the-kerberos-diamond-ticket
+
+- [Huntress Labs Blog] Huntress Managed ITDR Supports AD-Synced Identity Disablement
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/managed-itdr-supports-ad-synced-identity-disablement
+
+- [Huntress Labs Blog] Cybersecurity Leadership Insights for Building Unstoppable Security Teams
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cybersecurity-leadership-insights
+
+- [Huntress Labs Blog] Inside the BlueNoroff Web3 macOS Intrusion Analysis
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis
+
+- [Huntress Labs Blog] Proactive Account Review Uncovers Unauthorized Surveillance Tools
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-proactive-account-review-uncovered-unauthorized-surveillance-tools
+
+- [Huntress Labs Blog] Introducing Behavior-Based Assignments
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/introducing-behavior-based-assignments
+
+- [Huntress Labs Blog] 137 Key Cybersecurity Statistics for 2025 and Beyond
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cybersecurity-statistics
+
+- [Huntress Labs Blog] How Huntress Addresses Lateral Movement
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-huntress-addresses-lateral-movement
+
+- [Huntress Labs Blog] Extending Threat Coverage on Macs with XProtect and Microsoft Defender for Endpoint
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threat-coverage-on-macs-with-xprotect-microsoft-defender-for-endpoint
+
+- [Huntress Labs Blog] Introducing Threat Simulator for Better Employee Security Awareness Training. Start Your Trial Today.
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/introducing-threat-simulator-from-huntress-managed-sat
+
+- [Huntress Labs Blog] Boring Isn’t Harmless: The Risks Behind Common Cyberattack Tradecraft
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/boring-isnt-harmless-risks-behind-common-cyberattack-tradecraft
+
+- [Huntress Labs Blog] Infostealers Crash Course: A Tradecraft Tuesday Recap
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/infostealers-crash-course-tradecraft-tuesday-recap
+
+- [Huntress Labs Blog] Reduce Alert Fatigue Like a Huntress Cybersecurity Pro
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-to-deal-with-alert-fatigue-like-a-security-pro
+
+- [Huntress Labs Blog] “Advanced” Intrusion Targeting Critical Marketing Research Company
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/advanced-intrusion-targeting-executive-at-critical-marketing-research-company
+
+- [Huntress Labs Blog] Detecting Malicious Security Product Bypass Techniques
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/defendnot-detecting-malicious-security-product-bypass-techniques
+
+- [Huntress Labs Blog] Most Common Passwords 2025: Is Yours on the List?
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/most-common-passwords
+
+- [Huntress Labs Blog] Building an Incident Response Plan That Works
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/incident-response-planning-basics
+
+- [Huntress Labs Blog] 2025 Managed ITDR Report: The Rise of Identity Threats in Cybersecurity
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/identity-threats-in-cybersecurity
+
+- [Huntress Labs Blog] Breaking Down Ransomware Attacks and How to Stay Ahead
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/breaking-down-ransomware-attacks-and-how-to-stay-ahead
+
+- [Huntress Labs Blog] Simplify Agent Management with Automated Health Checks
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-new-client-side-api-brings-endpoint-clarity
+
+- [Huntress Labs Blog] Time to Ransom is Money
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/for-ransomware-time-to-ransom-is-money
+
+- [Huntress Labs Blog] Post-Exploitation Activities Observed from the Samsung MagicINFO 9 Server Flaw
+  Type: rumor
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/post-exploitation-activities-observed-from-samsung-magicinfo-9-server-flaw
+
+- [Huntress Labs Blog] Utilizing ASNs for Hunting & Response
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/utilizing-asns-for-hunting-and-response
+
+- [Huntress Labs Blog] Rapid Response: Samsung MagicINFO 9 Server Flaw
+  Type: likely/poc
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/rapid-response-samsung-magicinfo9-server-flaw
+
+- [Huntress Labs Blog] Do Tigers Really Change Their Stripes?
+  Type: mention
+  CVEs: CVE-2025-30406, CVE-2025-31151
+  Link: https://www.huntress.com/blog/do-tigers-really-change-their-stripes
+
+- [Huntress Labs Blog] The 36 Most Common Cyberattacks (2025) | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/most-common-cyberattacks
+
+- [Huntress Labs Blog] 36 Must-Know Password Statistics for 2025 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/password-statistics
+
+- [Huntress Labs Blog] Applying Criminal Justice Principles to Detection Engineering
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/applying-criminal-justice-principles-to-detection-engineering
+
+- [Huntress Labs Blog] What Is Business Email Compromise? BEC Defined | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-business-email-compromise-bec
+
+- [Huntress Labs Blog] Minutes Matter: Huntress Managed SIEM Makes Them Count (Here’s How)
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/minutes-matter-huntress-managed-siem-makes-them-count
+
+- [Huntress Labs Blog] Identity Threats Got a Whole Lot Nastier, But So Did We
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/protect-against-identity-threats-with-managed-itdr-and-rogue-apps
+
+- [Huntress Labs Blog] How to Stop Malware Attacks with a Security-First Culture
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-to-stop-malware-attacks-with-security-first-culture
+
+- [Huntress Labs Blog] Credential Theft: Expanding Your Reach, Pt. II
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/credential-theft-expanding-your-reach-pt-2
+
+- [Huntress Labs Blog] Say Hello to Mac Malware
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/say-hello-to-mac-malware-a-tradecraft-tuesday-recap
+
+- [Huntress Labs Blog] Tales of Too Many RMMs
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/tales-of-too-many-rmms
+
+- [Huntress Labs Blog] Why App Allowlisting and Zero Trust Solutions Alone Won’t Save You
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/why-app-allowlisting-and-zero-trust-solutions-alone-wont-save-you
+
+- [Huntress Labs Blog] CVE-2025-30406 - Critical Gladinet CentreStack & Triofox Vulnerability Exploited In The Wild
+  Type: verified/active
+  CVEs: CVE-2025-30406
+  Link: https://www.huntress.com/blog/cve-2025-30406-critical-gladinet-centrestack-triofox-vulnerability-exploited-in-the-wild
+
+- [Huntress Labs Blog] Ransomware Initial Access Brokers Exposed
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/brute-force-or-something-more-ransomware-initial-access-brokers-exposed
+
+- [Huntress Labs Blog] How EDR and ITDR Elevate Your Security
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/identities-are-the-new-perimeter-endpoints-are-only-the-beginning
+
+- [Huntress Labs Blog] Credential Theft: Expanding Your Reach
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/credential-theft-expanding-your-reach
+
+- [Huntress Labs Blog] CrushFTP CVE-2025-31161 Auth Bypass and Post-Exploitation
+  Type: mention
+  CVEs: CVE-2025-31161
+  Link: https://www.huntress.com/blog/crushftp-cve-2025-31161-auth-bypass-and-post-exploitation
+
+- [Huntress Labs Blog] Cyber Hygiene Threats Lurking at Your Perimeter: RDP, VPNs, and Remote Tools
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cyber-hygiene-attacks-prevention
+
+- [Huntress Labs Blog] The Unwanted Guest
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-unwanted-guest
+
+- [Huntress Labs Blog] Scalable EDR Advanced Agent Analytics with ClickHouse
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/scalable-edr-advanced-agent-analytics-with-clickhouse
+
+- [Huntress Labs Blog] Why cybersecurity matters for your business.
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/neglecting-cybersecurity-can-save-you-money-now
+
+- [Huntress Labs Blog] Securing Endpoints from Common Vulnerabilities
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/locking-down-common-endpoint-vulnerabilities
+
+- [Huntress Labs Blog] The Ultimate Validation: Making a Hacker’s “Do Not Engage” List
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/making-a-hackers-do-not-engage-list
+
+- [Huntress Labs Blog] Top 10 Worst Places to Store a Password | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/top-10-worst-places-to-store-a-password
+
+- [Huntress Labs Blog] Untold Tales from Tactical Response | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/untold-tales-from-tactical-response
+
+- [Huntress Labs Blog] 90% of IT Pros are Confident in Remote Cybersecurity | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/remote-work-security-best-practices
+
+- [Huntress Labs Blog] Detect and Eliminate Persistent Malware Before It Wreaks Havoc | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-to-detect-and-eliminate-persistent-malware-before-it-wreaks-havoc
+
+- [Huntress Labs Blog] How Huntress Achieved a Blazing Fast MTTR
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-huntress-achieved-a-blazing-fast-mttr-and-why-it-matters
+
+- [Huntress Labs Blog] Uncover Tomorrow’s Cyber Threats Today | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/infographic-uncover-tomorrows-cyber-threats-today
+
+- [Huntress Labs Blog] Cybersecurity Threats in Healthcare [2025 Report] | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cybersecurity-threats-in-healthcare
+
+- [Huntress Labs Blog] Hunt for RedCurl | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-hunt-for-redcurl-2
+
+- [Huntress Labs Blog] How Effective Is Your SAT Program? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-wall-street-journal-says-sat-programs-do-more-harm-than-good-are-they-right
+
+- [Huntress Labs Blog] 2025 Cybersecurity Threat Report: Proliferating RATs, Evolving Ransomware, and Other Findings | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-2025-cyber-threat-report-proliferating-rats-evolving-ransomware-and-other-findings
+
+- [Huntress Labs Blog] 6 Months of Researching OAuth Application Attacks | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/never-just-one-termite-6-months-of-researching-oauth-application-attacks
+
+- [Huntress Labs Blog] Device Code Phishing in Google Cloud and Azure | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/oh-auth-2-0-device-code-phishing-in-google-cloud-and-azure
+
+- [Huntress Labs Blog] The Huntress Cyber Insurance Trends Report (2025) | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cyber-insurance-trends
+
+- [Huntress Labs Blog] Why Every Business Needs Endpoint Protection | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/why-every-business-needs-endpoint-protection-in-2025
+
+- [Huntress Labs Blog] PerfMon! What Is It Good For? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/perfmon-what-is-it-good-for
+
+- [Huntress Labs Blog] What are LOLBins? How to Detect Malicious Threats | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/detecting-malicious-use-of-lolbins
+
+- [Huntress Labs Blog] Cleo Software Actively Being Exploited in the Wild CVE-2024-55956 | Huntress
+  Type: verified/active
+  CVEs: CVE-2024-55956
+  Link: https://www.huntress.com/blog/threat-advisory-oh-no-cleo-cleo-software-actively-being-exploited-in-the-wild
+
+- [Huntress Labs Blog] Exploring Package Tracking Smishing Scams | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/exploring-package-tracking-smishing-scams
+
+- [Huntress Labs Blog] 2024: Revisiting a Year in Threats | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/2024-revisiting-a-year-in-threats
+
+- [Huntress Labs Blog] How Managed SIEM Helps Decode Compliance | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/from-mandates-to-assurance-how-managed-siem-helps-decode-compliance-across-the-globe
+
+- [Huntress Labs Blog] Analyzing Initial Access Across Today's Business Environment | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/analyzing-initial-access-across-todays-business-environment
+
+- [Huntress Labs Blog] When and Where SIEM Fits in Healthcare IT Settings | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/first-do-no-harm-when-and-where-siem-fits-in-healthcare-it-settings
+
+- [Huntress Labs Blog] Does Santa Like NordVPN? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/mommy-does-santa-like-nordvpn
+
+- [Huntress Labs Blog] Cleo Malichus Malware Analysis CVE-2024-55956| Huntress
+  Type: mention
+  CVEs: CVE-2024-55956
+  Link: https://www.huntress.com/blog/cleo-software-vulnerability-malware-analysis
+
+- [Huntress Labs Blog] 2024 Wrapped: Huntress Managed SAT Edition | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/2024-wrapped-huntress-managed-sat-edition
+
+- [Huntress Labs Blog] Managed SIEM and the Art of Perfecting Cyber Defense | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/managed-siem-and-the-art-of-perfecting-cyber-defense
+
+- [Huntress Labs Blog] Relevancy of Huntress Managed Security Awareness Training Episodes| Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/trumans-take-a-product-researchers-insights-on-managed-learning
+
+- [Huntress Labs Blog] Know Thy Enemy: A Novel November Case | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/know-thy-enemy-a-novel-november-case-on-persistent-remote-access
+
+- [Huntress Labs Blog] You Can Run, but You Can’t Hide: Defender Exclusions | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/you-can-run-but-you-cant-hide-defender-exclusions
+
+- [Huntress Labs Blog] Make Your Microsoft Security Tools Come to Life With Huntress | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/make-your-microsoft-security-tools-come-to-life-with-huntress
+
+- [Huntress Labs Blog] Silencing the EDR Silencers | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/silencing-the-edr-silencers
+
+- [Huntress Labs Blog] To MFA or Not To MFA: How Multi-factor Authentication Saves the SMB | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/to-mfa-or-not-to-mfa-how-multi-factor-authentication-saves-the-smb
+
+- [Huntress Labs Blog] It’s Not Safe To Pay SafePa
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/its-not-safe-to-pay-safepay
+
+- [Huntress Labs Blog] WTF is ITDR? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/wtf-is-itdr
+
+- [Huntress Labs Blog] A Parent's Guide to Securing Children's Tech Gifts | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/a-parents-guide-to-securing-childrens-tech-gifts
+
+- [Huntress Labs Blog] Turning TTPs into CTF Challenges: Huntress CTF 2024 Retro | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/turning-ttps-into-ctf-challenges-huntress-ctf-2024-retro
+
+- [Huntress Labs Blog] Lead the Pack with SAT Leaderboards | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/lead-the-pack-with-sat-leaderboards
+
+- [Huntress Labs Blog] Cybersecurity standards raised by the Health Infrastructure Security and Accountability Act | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/wake-up-call-for-healthcare-cybersecurity
+
+- [Huntress Labs Blog] The Evolution of the Huntress Neighborhood Watch Program | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-evolution-of-the-huntress-neighborhood-watch-program
+
+- [Huntress Labs Blog] Protect Yourself from Political Donation Scams | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/protect-yourself-from-political-donation-scams
+
+- [Huntress Labs Blog] Ask the Mac Guy: What's the Deal with Full Disk Access for Mac? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ask-the-mac-guy-whats-the-deal-with-full-disk-access
+
+- [Huntress Labs Blog] Thank You for Helping Us Earn Another Inc. Power Partner Award in Cybersecurity | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/thank-you-for-helping-us-earn-another-inc-power-partner-award-in-cybersecurity
+
+- [Huntress Labs Blog] Detecting Malicious Use of LOLBins, Pt. II | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/detecting-malicious-use-of-lolbins-pt-ii
+
+- [Huntress Labs Blog] Inside Adversary-in-the-Middle Attacks | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/unmasking-the-central-villain-inside-adversary-in-the-middle-attacks
+
+- [Huntress Labs Blog] What is Behavioral Analysis in Cybersecurity? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-behavioral-analysis-in-cybersecurity
+
+- [Huntress Labs Blog] Prevent Business Email Compromise Attacks | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/prevent-business-email-compromise-attacks
+
+- [Huntress Labs Blog] Top 3 Cybersecurity Threats of 2024 (So Far) | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/top-3-cybersecurity-threats-of-2024-so-far-what-you-need-to-know
+
+- [Huntress Labs Blog] NERC CIP Training Requirements | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/nerc-cip-training-requirements
+
+- [Huntress Labs Blog] NERC CIP-014 Standard Explained | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/nerc-cip-014-standard-explained
+
+- [Huntress Labs Blog] What is the Trigger Event for Implementing Security Awareness Training? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-the-trigger-event-for-implementing-security-awareness-training
+
+- [Huntress Labs Blog] Hunting for M365 Password Spraying | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/hunting-for-m365-password-spraying
+
+- [Huntress Labs Blog] One Order of Tips, Tricks & Hot Takes for Cybersecurity Awareness Month 2024 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/one-order-of-tips-tricks-hot-takes-for-cybersecurity-awareness-month-2024
+
+- [Huntress Labs Blog] Friendly Reminder: SAT Can Be Enjoyable | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/friendly-reminder-sat-can-be-enjoyable
+
+- [Huntress Labs Blog] Unlocking SIEM: The Role of Smart Filtering | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/unlocking-siem-the-role-of-smart-filtering
+
+- [Huntress Labs Blog] ReadText34 Ransomware Incident | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/readtext34-ransomware-incident
+
+- [Huntress Labs Blog] Akira Ransomware Indicators | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/akira-ransomware-indicators
+
+- [Huntress Labs Blog] Making Sense of Alphabet Soup: 16 Security Terms and Acronyms You Should Know | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/making-sense-of-alphabet-soup-16-security-terms-and-acronyms-you-should-know
+
+- [Huntress Labs Blog] The State of the Dark Web | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-state-of-the-dark-web
+
+- [Huntress Labs Blog] Cracks in the Foundation: Intrusions of FOUNDATION Accounting Software | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cracks-in-the-foundation-intrusions-of-foundation-accounting-software
+
+- [Huntress Labs Blog] The Top 3 Cyber Challenges for Mid-Market Businesses | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-top-3-cyber-challenges-for-mid-market-businesses
+
+- [Huntress Labs Blog] Are Biometrics the Unsung Hero or the Ultimate Villain in Cybersecurity? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/are-biometrics-the-unsung-hero-or-the-ultimate-villain-in-cybersecurity
+
+- [Huntress Labs Blog] MSPCFO: Identifying Operational Improvements from Huntress | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/mspcfo-identifying-operational-improvements
+
+- [Huntress Labs Blog] Will Patients’ Data Ever Be Safe if We Let GPTs Into Healthcare? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/will-patients-data-ever-be-safe-if-we-let-gpts-into-healthcare
+
+- [Huntress Labs Blog] You’re the “Why” Behind the Huntress Hub | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/youre-the-why-behind-the-huntress-hub
+
+- [Huntress Labs Blog] Chaos to Clarity: How Our Community Helped Transform SIEM | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/chaos-to-clarity-how-our-community-helped-transform-siem
+
+- [Huntress Labs Blog] Phishing in the Fast Lane | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/phishing-in-the-fast-lane-the-attackers-eye-view
+
+- [Huntress Labs Blog] Advanced Persistent Threat Targeting Vietnamese Human Rights Defenders | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/advanced-persistent-threat-targeting-vietnamese-human-rights-defenders
+
+- [Huntress Labs Blog] Which States Are Most at Risk for Cyberattacks on Government and Infrastructure? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/which-states-are-most-at-risk-for-cyberattacks-on-government-and-infrastructure
+
+- [Huntress Labs Blog] Remote Work Security | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/remote-work-security-follow-imanis-journey-in-our-latest-huntress-sat-episode
+
+- [Huntress Labs Blog] Unwanted Access: Protecting Against the Growing Threat of Session Hijacking and Credential Theft | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/unwanted-access-protecting-against-the-growing-threat-of-session-hijacking-and-credential-theft
+
+- [Huntress Labs Blog] Don't Get Your Security from Your RMM Provider: The Risks You Should Know | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/dont-get-your-security-from-your-rmm-provider-the-risks-you-should-know
+
+- [Huntress Labs Blog] SlashAndGrab: The ConnectWise ScreenConnect Vulnerability Explained | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/slashandgrab-the-connectwise-screenconnect-vulnerability-explained
+
+- [Huntress Labs Blog] Huntress Is Now a CVE Numbering Authority. But What Does That Mean? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-is-now-a-cve-numbering-authority-but-what-does-that-mean
+
+- [Huntress Labs Blog] Huntress Recognized with 44 New G2 Leader Badges for Summer 2024 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-recognized-with-44-new-g2-leader-badges-for-summer-2024
+
+- [Huntress Labs Blog] When Trust Becomes a Trap: How Huntress Foiled a Medical Software Update Hack | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/when-trust-becomes-a-trap-how-huntress-foiled-a-medical-software-update-hack
+
+- [Huntress Labs Blog] Fake Browser Updates Lead to BOINC Volunteer Computing Software | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/fake-browser-updates-lead-to-boinc-volunteer-computing-software
+
+- [Huntress Labs Blog] Understanding the Recent Surge in Cybersecurity Threats to Dental Practices | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/understanding-the-recent-surge-in-cybersecurity-threats-to-dental-practices
+
+- [Huntress Labs Blog] 9 Pro Tips for Better Endpoint Security | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/9-pro-tips-for-better-endpoint-security
+
+- [Huntress Labs Blog] Is There an Effective Way to Defend Against Cyber Threats to Critical Infrastructure? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/effective-ways-to-defend-against-cyber-threats-to-critical-infrastructure
+
+- [Huntress Labs Blog] Hackers Are Hiding in Plain Sight: Insights from Our 2024 Cyber Threat Report | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/hackers-are-hiding-in-plain-sight-insights-from-our-2024-cyber-threat-report
+
+- [Huntress Labs Blog] How Accidental or Intentional Data Loss Can Be Equally Debilitating for Healthcare | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/dont-lose-it-how-accidental-or-intentional-data-loss-can-be-equally-debilitating-for-healthcare
+
+- [Huntress Labs Blog] Huntress and Our Culture of BElonging | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/building-a-culture-of-belonging-the-huntress-way
+
+- [Huntress Labs Blog] Auto-Remediations: Save Precious Time on Low-Level Incidents | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/auto-remediations-save-precious-time-on-low-level-incidents
+
+- [Huntress Labs Blog] Tailored Cybersecurity Solutions vs. Cybersecurity Bundles like K365 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/dont-fall-for-the-ol-bundle-trick
+
+- [Huntress Labs Blog] Here’s to the Future: Our Latest Funding Will Fuel Big Innovations, Bold Acquisitions, and a More Secure Global Community | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/heres-to-the-future-our-latest-funding-will-fuel-big-innovations-bold-acquisitions-and-a-more-secure-global-community
+
+- [Huntress Labs Blog] How a Pharmacy Cyberattack is a Warning Sign for Healthcare’s Cybersecurity Vulnerabilities | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-a-pharmacy-cyberattack-is-a-warning-sign-for-healthcares-cybersecurity-vulnerabilities
+
+- [Huntress Labs Blog] Debunking 5 Major macOS Myths | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/debunking-5-major-macos-myths
+
+- [Huntress Labs Blog] Mistakes to Mastery: Get to Know Phishing Defense Coaching from Huntress SAT | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/mistakes-to-mastery-get-to-know-phishing-defense-coaching-from-huntress-sat
+
+- [Huntress Labs Blog] Examining the Impact of Ransomware on the Healthcare Sector and New HHS Guidelines | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/examining-the-impact-of-ransomware-on-the-healthcare-sector-and-new-hhs-guidelines
+
+- [Huntress Labs Blog] Healthcare in the Crosshairs: Insights from Our 2024 Cyber Threat Report | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/healthcare-in-the-crosshairs-insights-from-our-2024-cyber-threat-report
+
+- [Huntress Labs Blog] Macs Need Security Too: Announcing Huntress Managed EDR for macOS | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/macs-need-security-too-announcing-huntress-managed-edr-for-macos
+
+- [Huntress Labs Blog] Attack Behaviors | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/attack-behaviors
+
+- [Huntress Labs Blog] The Rise of Social Engineering Across Healthcare | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/deceitful-tactics-and-honest-mistakes-remedying-human-error-amid-the-rise-of-social-engineering-across-healthcare
+
+- [Huntress Labs Blog] Smuggler’s Gambit: Uncovering HTML Smuggling Adversary in the Middle Tradecraft | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/smugglers-gambit-uncovering-html-smuggling-adversary-in-the-middle-tradecraft
+
+- [Huntress Labs Blog] Insights from Our 2024 Cyber Threat Report | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/a-surge-in-ransomware-insights-from-our-2024-cyber-threat-report
+
+- [Huntress Labs Blog] Time to Act: Gaining the Edge with Huntress Response Capabilities | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/time-to-act-gaining-the-edge-with-huntress-response-capabilities
+
+- [Huntress Labs Blog] Active Remediation: Proactive Response with Huntress Managed EDR | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/active-remediation-proactive-incident-response-with-huntress-managed-edr
+
+- [Huntress Labs Blog] From South Park to Curriculaville: Meet Jeff Gill, Emmy Award Winner and Huntress SAT Animator | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/from-south-park-to-curriculaville-meet-jeff-gill-emmy-award-winner-and-huntress-sat-animator
+
+- [Huntress Labs Blog] Healthcare Held Hostage: Fighting the Plague of Ransomware | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/healthcare-held-hostage-fighting-the-plague-of-ransomware
+
+- [Huntress Labs Blog] LOLBin to INC Ransomware
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/lolbin-to-inc-ransomware
+
+- [Huntress Labs Blog] The Undeniable Benefits of Healthcare Security Awareness Training | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-undeniable-benefits-of-healthcare-security-awareness-training
+
+- [Huntress Labs Blog] LightSpy Malware Variant Targeting macOS | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/lightspy-malware-variant-targeting-macos
+
+- [Huntress Labs Blog] It Costs How Much?!? The Financial Pitfalls of Cyberattacks on SMBs | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/it-costs-how-much-the-financial-pitfalls-of-cyberattacks-on-smbs
+
+- [Huntress Labs Blog] Huntress Snags Over 40 Leader Badges in G2 Spring 2024 Reports | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-snags-over-40-leader-badges-in-g2-spring-2024-reports
+
+- [Huntress Labs Blog] Interconnected Devices Inject Risk into Patient Safety | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/interconnected-devices-inject-risk-into-patient-safety
+
+- [Huntress Labs Blog] Analyzing a Malicious Advanced IP Scanner Google Ad Redirection | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/analyzing-a-malicious-advanced-ip-scanner-google-ad-redirection
+
+- [Huntress Labs Blog] MSSQL to ScreenConnect | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/mssql-to-screenconnect
+
+- [Huntress Labs Blog] How Huntress Managed EDR Stands Against the Competition | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/put-a-soc-in-it--how-huntress-managed-edr-stands-against-the-competition
+
+- [Huntress Labs Blog] 7 Don’ts of Security Awareness Training
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/seven-donts-of-security-awareness-training
+
+- [Huntress Labs Blog] Managing Attack Surface | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/managing-attack-surface
+
+- [Huntress Labs Blog] Using Backup Utilities for Data Exfiltration | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/using-backup-utilities-for-data-exfiltration
+
+- [Huntress Labs Blog] Full Transparency: Controlling Apple's TCC (Part 2) | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/full-transparency-controlling-apples-tcc-part-ii
+
+- [Huntress Labs Blog] Time Travelers Busted: How to Detect Impossible Travel | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/time-travelers-busted-how-to-detect-impossible-travel-
+
+- [Huntress Labs Blog] Please Allow Me to (Re)introduce Myself: Huntress Security Awareness Training | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/please-allow-me-to-re-introduce-myself-huntress-security-awareness-training
+
+- [Huntress Labs Blog] Insights: RMM Tools | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/insights-rmm-tools
+
+- [Huntress Labs Blog] Navigate SocGholish with Huntress | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/navigating-the-maze-of-socgholish-with-huntress-a-practical-guide
+
+- [Huntress Labs Blog] Attacking MSSQL Servers, Pt. II | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/attacking-mssql-servers-pt-ii
+
+- [Huntress Labs Blog] BlackCat Ransomware Affiliate TTPs | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/blackcat-ransomware-affiliate-ttps
+
+- [Huntress Labs Blog] SlashAndGrab: ScreenConnect Post-Exploitation in the Wild (CVE-2024-1709 & CVE-2024-1708) | Huntress
+  Type: mention
+  CVEs: CVE-2024-1708, CVE-2024-1709
+  Link: https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
+
+- [Huntress Labs Blog] Guide: How to Know if your ScreenConnect Server is Hacked | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-to-know-if-your-screenconnect-server-is-hacked
+
+- [Huntress Labs Blog] Understanding the ConnectWise ScreenConnect CVE-2024-1709 & CVE-2024-1708 | Huntress
+  Type: mention
+  CVEs: CVE-2024-1708, CVE-2024-1709
+  Link: https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screenconnect-authentication-bypass
+
+- [Huntress Labs Blog] Detection Guidance for ConnectWise CWE-288 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/detection-guidance-for-connectwise-cwe-288-2
+
+- [Huntress Labs Blog] Vulnerability Reproduced: Immediately Patch ScreenConnect 23.9.8 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/vulnerability-reproduced-immediately-patch-screenconnect-23-9-8
+
+- [Huntress Labs Blog] Solving Endpoint Security Challenges with a Managed EDR | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/solving-endpoint-security-challenges-with-a-managed-edr
+
+- [Huntress Labs Blog] The Health Sector is Under Attack. But You Can Fight Back. | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-health-sector-is-under-attack-but-you-can-fight-back-
+
+- [Huntress Labs Blog] Threat Intel Accelerates Detection and Response | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threat-intel-accelerates-detection-and-response
+
+- [Huntress Labs Blog] Attacking MSSQL Servers | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/attacking-mssql-servers
+
+- [Huntress Labs Blog] RATs! Remote Management Software from the Hacker’s Perspective | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/rats-remote-management-software-from-the-hackers-perspective
+
+- [Huntress Labs Blog] Threat Advisory: Possible AnyDesk Stolen Code Signing Certificate | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threat-advisory-possible-anydesk-stolen-code-signing-certificate
+
+- [Huntress Labs Blog] Ransomware Deployment Attempts Via TeamViewer | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ransomware-deployment-attempts-via-teamviewer
+
+- [Huntress Labs Blog] Full Transparency: Controlling Apple's TCC | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/full-transparency-controlling-apples-tcc
+
+- [Huntress Labs Blog] Securing Healthcare: Handling Cyber Threats with Care | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/securing-healthcare-handling-cyber-threats-with-care
+
+- [Huntress Labs Blog] Empowering the Hunt: All Your Security in One Place | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/empowering-the-hunt-all-your-security-in-one-place
+
+- [Huntress Labs Blog] Navigating Cybersecurity Challenges in Healthcare | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/doing-more-with-less-navigating-cybersecurity-challenges-in-healthcare
+
+- [Huntress Labs Blog] Combating Emerging Microsoft 365 Tradecraft: Initial Access | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/combating-emerging-microsoft-365-tradecraft-initial-access
+
+- [Huntress Labs Blog] What Does the Future Hold for Today’s Cybersecurity Leaders? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-does-the-future-hold-for-todays-cybersecurity-leaders
+
+- [Huntress Labs Blog] Effortless Phishing Simulations Now Part of Huntress Managed Security Awareness Training | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/effortless-phishing-simulations-now-part-of-huntress-security-awareness-training
+
+- [Huntress Labs Blog] Teach Yourself to Phish: The Strategy Behind Phishing Simulations | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/teach-yourself-to-phish-the-strategy-behind-phishing-simulations
+
+- [Huntress Labs Blog] Curling for Data: A Dive into a Threat Actor's Malicious TTPs | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/curling-for-data-a-dive-into-a-threat-actors-malicious-ttps
+
+- [Huntress Labs Blog] Orienting Intelligence Requirements to the Small Business Space
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/orienting-intelligence-requirements-to-the-small-business-space
+
+- [Huntress Labs Blog] Exploring the Value of Indicators In Small Business Defense
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/exploring-the-value-of-indicators-in-small-business-defense
+
+- [Huntress Labs Blog] Huntress MDR for Microsoft 365 Update | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-mdr-for-microsoft-365-update
+
+- [Huntress Labs Blog] CIS Controls Security Awareness Training | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cis-controls-security-awareness-training
+
+- [Huntress Labs Blog] macOS Terms and Trends You Should Know About | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/macos-terms-and-trends-you-should-know-about
+
+- [Huntress Labs Blog] MFT Exploitation and Adversary Operations | Huntress
+  Type: mention
+  CVEs: CVE-2023-43117
+  Link: https://www.huntress.com/blog/mft-exploitation-and-adversary-operations
+
+- [Huntress Labs Blog] Can’t Touch This: Data Exfiltration via Finger
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cant-touch-this-data-exfiltration-via-finger
+
+- [Huntress Labs Blog] Key Insights from Huntress’ SMB Threat Report
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/navigating-the-smb-threat-landscape-key-insights-from-huntress-smb-threat-report
+
+- [Huntress Labs Blog] Critical Vulnerability: SysAid CVE-2023-47246 | Huntress
+  Type: likely/poc
+  CVEs: CVE-2023-47246
+  Link: https://www.huntress.com/blog/critical-vulnerability-sysaid-cve-2023-47246
+
+- [Huntress Labs Blog] Bitter Pill: Pharmaceutical Vendor Linked to Pharmacy and Health Clinic Cyberattack | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/third-party-pharmaceutical-vendor-linked-to-pharmacy-and-health-clinic-cyberattack
+
+- [Huntress Labs Blog] Confluence to Cerber: Exploitation of ​​CVE-2023-22518
+  Type: mention
+  CVEs: CVE-2023-22518
+  Link: https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
+
+- [Huntress Labs Blog] Critical Vulnerability: Exploitation of Apache ActiveMQ CVE-2023-46604 | Huntress
+  Type: mention
+  CVEs: CVE-2023-46604
+  Link: https://www.huntress.com/blog/critical-vulnerability-exploitation-of-apache-activemq-cve-2023-46604
+
+- [Huntress Labs Blog] The Hackers in the Arena: The Huntress CTF Retrospective | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-hackers-in-the-arena-the-huntress-ctf-retrospective
+
+- [Huntress Labs Blog] Exposed Passwords on Endpoints Are More Common Than You Think
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/exposed-passwords-on-endpoints-are-more-common-than-you-think
+
+- [Huntress Labs Blog] 5 Phishing Email Scams and How NOT To Fall For Them | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/5-phishing-email-scams-and-how-not-to-fall-for-them
+
+- [Huntress Labs Blog] Huntress Managed ITDR (formerly MDR for Microsoft 365): The Full Story | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-mdr-for-microsoft-365-the-full-story
+
+- [Huntress Labs Blog] Why Are You Still Paying for Antivirus? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/why-are-you-still-paying-for-antivirus
+
+- [Huntress Labs Blog] 3 Hot Takes and Tips for Cybersecurity Awareness Month 2023 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/3-hot-takes-and-tips-for-cybersecurity-awareness-month-2023
+
+- [Huntress Labs Blog] Pairing SOCs with Automation: You Won’t Be Replaced by a Robot Yet | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/pairing-socs-with-automation-you-wont-be-replaced-by-a-robot-yet
+
+- [Huntress Labs Blog] Ask the Mac Guy: Do I Need AV on My Mac? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ask-the-mac-guy-do-i-need-av-on-mac
+
+- [Huntress Labs Blog] Critical Vulnerabilities: WS_FTP Exploitation | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/critical-vulnerabilities-ws-ftp-exploitation
+
+- [Huntress Labs Blog] Critical Vulnerability: WebP Heap Buffer Overflow (CVE-2023-4863) | Huntress
+  Type: mention
+  CVEs: CVE-2023-4863
+  Link: https://www.huntress.com/blog/critical-vulnerability-webp-heap-buffer-overflow-cve-2023-4863
+
+- [Huntress Labs Blog] Humans vs. AI: The Critical Role of Human Expertise in Cybersecurity
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/humans-vs-ai-the-critical-role-of-human-expertise-in-cybersecurity
+
+- [Huntress Labs Blog] Netscaler Exploitation to Social Engineering: Mapping Convergence of Adversary Tradecraft Across Victims | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/netscaler-exploitation-to-social-engineering-mapping-convergence-of-adversary-tradecraft-across-victims
+
+- [Huntress Labs Blog] Introducing Incident Notification: A Game Changer for Critical Incident Response | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/introducing-incident-notification-a-game-changer-for-critical-incident-response
+
+- [Huntress Labs Blog] Understanding Evil: How to Reverse Engineer Malware | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/understanding-evil-how-to-reverse-engineer-malware
+
+- [Huntress Labs Blog] Enhancing Cybersecurity for MSPs in Australia and New Zealand | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/enhancing-cybersecurity-for-msps-in-australia-and-new-zealand
+
+- [Huntress Labs Blog] Spidering Through Identity for Profit and Disruption | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/spidering-through-identity-for-profit-and-disruption
+
+- [Huntress Labs Blog] Evolution of USB-Borne Malware, Raspberry Robin | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/evolution-of-usb-borne-malware-raspberry-robin
+
+- [Huntress Labs Blog] Ask the Mac Guy: Best Practices for Securing Macs | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ask-the-mac-guy-best-practices-for-securing-macs
+
+- [Huntress Labs Blog] How Huntress Transformed Its Detection Engine
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-huntress-transformed-its-detection-engine
+
+- [Huntress Labs Blog] Qakbot Malware Takedown and Defending Forward | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/qakbot-malware-takedown-and-defending-forward
+
+- [Huntress Labs Blog] Threat Hunting and Tactical Malware Analysis | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threat-hunting-and-tactical-malware-analysis
+
+- [Huntress Labs Blog] Best Practices to Reduce Your Attack Surface
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/best-practices-to-reduce-your-attack-surface
+
+- [Huntress Labs Blog] Ask the Mac Guy: macOS Security Myths | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ask-the-mac-guy-macos-security-myths
+
+- [Huntress Labs Blog] Gone Phishing: An Analysis of a Targeted User Attack | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/gone-phishing-an-analysis-of-a-targeted-user-attack
+
+- [Huntress Labs Blog] Traditional Antivirus vs. Managed Antivirus | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/traditional-antivirus-vs-managed-antivirus
+
+- [Huntress Labs Blog] Investigating New INC Ransom Group Activity | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/investigating-new-inc-ransom-group-activity
+
+- [Huntress Labs Blog] Identity: The Third Phase of Security Operations | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/identity-the-third-phase-of-security-operations
+
+- [Huntress Labs Blog] How Security-Centric Procedures and Training Helped Huntress Catch a $100,000 BEC Scam | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-security-centric-procedures-and-training-helped-huntress-catch-a-100000-bec-scam
+
+- [Huntress Labs Blog] How Businesses Should Be Scaling Their Security
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/beyond-antivirus-how-businesses-should-be-scaling-their-security
+
+- [Huntress Labs Blog] Another PaperCut: CVE-2023-39143 Remote Code Execution | Huntress
+  Type: mention
+  CVEs: CVE-2023-39143
+  Link: https://www.huntress.com/blog/another-papercut-cve-2023-39143-remote-code-execution
+
+- [Huntress Labs Blog] Legitimate Apps as Traitorware for Persistent Microsoft 365 Compromise
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/legitimate-apps-as-traitorware-for-persistent-microsoft-365-compromise
+
+- [Huntress Labs Blog] Breaking Down the Threat Hunting Process | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/breaking-down-the-threat-hunting-process
+
+- [Huntress Labs Blog] Why Huntress Trusts Microsoft Defender Antivirus (And You Should Too) | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/why-huntress-trusts-microsoft-defender-antivirus-and-you-should-too
+
+- [Huntress Labs Blog] Business Email Compromise via Azure Administrative Privileges | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/business-email-compromise-via-azure-administrative-privileges
+
+- [Huntress Labs Blog] The Power of Cyber Insurance: What Every MSP Should Know | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-power-of-cyber-insurance-what-every-msp-should-know
+
+- [Huntress Labs Blog] Celebrating One Year of Security Awareness Training
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/celebrating-one-year-of-security-awareness-training
+
+- [Huntress Labs Blog] Thwarting Financial Fraud: Shutting Down Hackers in Microsoft 365 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/thwarting-financial-fraud-shutting-down-hackers-in-microsoft-365
+
+- [Huntress Labs Blog] Move It on Over: Reflecting on the MOVEit Exploitation | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/move-it-on-over-reflecting-on-the-moveit-exploitation
+
+- [Huntress Labs Blog] Threat Hunting for Business Email Compromise Through User Agents | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threat-hunting-for-business-email-compromise-through-user-agents
+
+- [Huntress Labs Blog] dmXProtect: Stop, Drop, Shut Malware Down
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/dmxprotect-stop-drop-shut-malware-down-before-it-opens-up-shop
+
+- [Huntress Labs Blog] One MSP, Three Microsoft 365 Compromises, 72 Hours | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/one-msp-three-microsoft-365-compromises-72-hours
+
+- [Huntress Labs Blog] How To Speak To SMBs About Cybersecurity | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-to-speak-to-smbs-about-cybersecurity
+
+- [Huntress Labs Blog] Understanding Granular Delegated Admin Privileges (GDAP) and Its Operational Impact | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/understanding-gdap-and-its-operational-impact
+
+- [Huntress Labs Blog] Calm In The Storm: Reviewing Volt Typhoon
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/calm-in-the-storm-reviewing-volt-typhoon
+
+- [Huntress Labs Blog] Beware of Traitorware: Using Splunk for Persistence
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/beware-of-traitorware-using-splunk-for-persistence
+
+- [Huntress Labs Blog] MOVEit Transfer Critical Vulnerability CVE-2023-34362 Rapid Response
+  Type: likely/poc
+  CVEs: CVE-2023-34362
+  Link: https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
+
+- [Huntress Labs Blog] Threat Advisory: XMRig Cryptomining By Way Of TeamViewer
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threat-advisory-xmrig-crypto-mining-by-way-of-teamviewer
+
+- [Huntress Labs Blog] The Battle for macOS Management: MDM vs. RMM | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-battle-for-macos-management-mdm-vs-rmm
+
+- [Huntress Labs Blog] New Investment Fuels Our Mission To Enable SMBs to Better Protect Their Business Assets | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/new-investment-fuels-our-mission-to-enable-smbs-to-better-protect-their-business-assets
+
+- [Huntress Labs Blog] Advanced CyberChef Tips: AsyncRAT Loader | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/advanced-cyberchef-tips-asyncrat-loader
+
+- [Huntress Labs Blog] The Power of People: Inside Huntress EDR and 24/7 Operations | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-power-of-people-inside-huntress-edr-24x7-operations
+
+- [Huntress Labs Blog] Endpoint Security In a macOS World | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/endpoint-security-in-a-macos-world
+
+- [Huntress Labs Blog] Critical Vulnerabilities in PaperCut Print Management Software | Huntress
+  Type: likely/poc
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
+
+- [Huntress Labs Blog] Bringing the Hunt to Australia and New Zealand | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-australia-new-zealand-msp
+
+- [Huntress Labs Blog] Traitorware and Living Off the Land: Using Splunk to Exfiltrate Data | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/traitorware-and-living-off-the-land-using-splunk-to-exfiltrate-data
+
+- [Huntress Labs Blog] Huntress Is SOC2, GDPR and CCPA Compliant! | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-is-soc2-gdpr-and-ccpa-compliant
+
+- [Huntress Labs Blog] Huntress Heads Into Q2 Serving More SMBs and 2 Million Endpoints | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-heads-into-q2-serving-more-smbs-and-2-million-endpoints
+
+- [Huntress Labs Blog] Contextualizing Events & Enabling Defense: What 3CX Means | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/contextualizing-events-enabling-defense-what-3cx-means
+
+- [Huntress Labs Blog] 3CX VoIP Software Compromise & Supply Chain Threats | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/3cx-voip-software-compromise-supply-chain-threats
+
+- [Huntress Labs Blog] Mid-Sized Businesses vs. The Threat Landscape in 2023 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/mid-sized-businesses-vs-the-threat-landscape-in-2023
+
+- [Huntress Labs Blog] macOS (Not)ifications | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/macos-notifications
+
+- [Huntress Labs Blog] Everything We Know About CVE-2023-23397 | Huntress
+  Type: likely/poc
+  CVEs: CVE-2023-23397
+  Link: https://www.huntress.com/blog/everything-we-know-about-cve-2023-23397
+
+- [Huntress Labs Blog] Addressing Initial Access | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/addressing-initial-access
+
+- [Huntress Labs Blog] Veeam Backup & Replication CVE-2023-27532 Response | Huntress
+  Type: mention
+  CVEs: CVE-2023-27532
+  Link: https://www.huntress.com/blog/veeam-backup-replication-cve-2023-27532-response
+
+- [Huntress Labs Blog] How To Get Buy-In for an EDR Purchase
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-to-get-buy-in-for-an-edr-purchase
+
+- [Huntress Labs Blog] What Endpoint Detection and Response (EDR) Looks Like Under the Hood | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/endpoint-detection-and-response-edr-under-the-hood
+
+- [Huntress Labs Blog] Built-in macOS Security Tools | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/built-in-macos-security-tools
+
+- [Huntress Labs Blog] Not All Managed Is Created Equally | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/not-all-managed-is-created-equally
+
+- [Huntress Labs Blog] Choosing the Right EDR: Managed vs. Unmanaged
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/choosing-the-right-edr-managed-vs-unmanaged
+
+- [Huntress Labs Blog] Investigating Intrusions From Intriguing Exploits
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/investigating-intrusions-from-intriguing-exploits
+
+- [Huntress Labs Blog] Ave Maria and the Chambers of Warzone RAT | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ave-maria-and-the-chambers-of-warzone-rat
+
+- [Huntress Labs Blog] The Methods Behind a Huntress Managed Antivirus Investigation | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-methods-behind-a-huntress-managed-antivirus-investigation
+
+- [Huntress Labs Blog] Why Having Backups Isn't Enough | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/why-having-backups-isnt-enough
+
+- [Huntress Labs Blog] Insistence on Persistence | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/insistence-on-persistence
+
+- [Huntress Labs Blog] Managed Endpoint Detection and Response (EDR) in Action | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/managed-endpoint-detection-and-response-edr-in-action
+
+- [Huntress Labs Blog] Going the Distance: Cyber Predictions for 2023 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/going-the-distance-cyber-predictions-for-2023
+
+- [Huntress Labs Blog] OWASSRF Explained: Analyzing the Microsoft Exchange RCE Vulnerability | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/owassrf-explained-analyzing-the-microsoft-exchange-rce-vulnerability
+
+- [Huntress Labs Blog] Using Shodan Images to Hunt Down Ransomware Groups | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/using-shodan-images-to-hunt-down-ransomware-groups
+
+- [Huntress Labs Blog] Overblown Claims of Vulnerabilities, Exploits, & Severity | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/clearing-the-air-overblown-claims-of-vulnerabilities-exploits-severity
+
+- [Huntress Labs Blog] The Value of Managed EDR for the Modern MSP | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-value-of-managed-edr-for-the-modern-msp
+
+- [Huntress Labs Blog] Defense Evasion: Defenders Strike Back! | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/defense-evasion-defenders-strike-back
+
+- [Huntress Labs Blog] Incident Response: A Choose Your Own Adventure Exercise
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/incident-response-choose-your-own-adventure-exercise
+
+- [Huntress Labs Blog] Threat Advisory: Qakbot Activity Is Rising | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threat-advisory-qakbot-activity-is-rising
+
+- [Huntress Labs Blog] Tradecraft, Shenanigans and Spice: hack_it 2022 Recap | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/tradecraft-shenanigans-and-spice-hack-it-2022-recap
+
+- [Huntress Labs Blog] Do You Have a Security Hygiene Checklist in Place?
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/do-you-have-a-security-hygiene-checklist-in-place
+
+- [Huntress Labs Blog] Creating macOS Ransomware | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/creating-macos-ransomware
+
+- [Huntress Labs Blog] macOS Support Is Here! | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/macos-support-is-here
+
+- [Huntress Labs Blog] ConnectWise/R1Soft Server Backup Manager Remote Code Execution & Supply Chain Risks | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/critical-vulnerability-disclosure-connectwise-r1soft-server-backup-manager-remote-code-execution-supply-chain-risks
+
+- [Huntress Labs Blog] Huntress Myths and Misconceptions | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/clearing-the-air-huntress-myths-and-misconceptions
+
+- [Huntress Labs Blog] Cybersecurity Basics: A Chat With Syncro | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/a-cybersecurity-chat-with-syncro
+
+- [Huntress Labs Blog] Making Cybersecurity Accessible for Women | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/making-cybersecurity-accessible-for-women
+
+- [Huntress Labs Blog] A Sneak Peek at hack_it 2022 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/a-sneak-peek-at-hack-it-2022
+
+- [Huntress Labs Blog] New 0-Day Vulnerabilities Found in Microsoft Exchange | Huntress
+  Type: likely/poc
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/new-0-day-vulnerabilities-found-in-microsoft-exchange
+
+- [Huntress Labs Blog] Bug Bounties for the 99%
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/bug-bounties-for-the-99
+
+- [Huntress Labs Blog] Back to Basics: Protecting Your Endpoints With Managed EDR and ITDR
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/back-to-basics-protecting-your-endpoints-with-edr-and-mdr
+
+- [Huntress Labs Blog] Unraveling a Reverse Shell with Managed EDR | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/unraveling-a-reverse-shell-with-process-insights
+
+- [Huntress Labs Blog] Evolving Endpoint Protection and the Next Iteration of Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/checking-the-edr-box-evolving-endpoint-protection-and-the-next-iteration-of-huntress
+
+- [Huntress Labs Blog] How Progressive Computing Combated a Large-Scale Cyberattack | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-progressive-computing-combated-a-large-scale-cyberattack
+
+- [Huntress Labs Blog] Gifting User Passwords to Adversaries With NPPSPY | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cleartext-shenanigans-gifting-user-passwords-to-adversaries-with-nppspy
+
+- [Huntress Labs Blog] Don’t Get Schooled: How to Catch a Phish | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/dont-get-schooled-how-to-catch-a-phish
+
+- [Huntress Labs Blog] Huntress’ Commitment to the Cybersecurity Community | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-commitment-to-the-cybersecurity-community
+
+- [Huntress Labs Blog] Threat Advisory: Hackers Are Selling Access to MSPs | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threat-advisory-hackers-are-selling-access-to-msps
+
+- [Huntress Labs Blog] Practical Tips for Conducting Digital Forensics Investigations | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/practical-tips-for-conducting-digital-forensics-investigations
+
+- [Huntress Labs Blog] Behind the Scenes: Crushing Cybercriminals with MAV | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/behind-the-scenes-crushing-cybercriminals-with-mav
+
+- [Huntress Labs Blog] Putting the Dee(Dee) in Defense: Huntress Acquires Curricula | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/putting-the-deedee-in-defense-huntress-acquires-curricula
+
+- [Huntress Labs Blog] Introducing the Huntress Neighborhood Watch Program | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/introducing-the-huntress-neighborhood-watch-program
+
+- [Huntress Labs Blog] Four Sneaky Attacker Evasion Techniques You Should Know About | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/four-sneaky-attacker-evasion-techniques-you-should-know-about
+
+- [Huntress Labs Blog] Fighting Log4Shell with Huntress Managed EDR | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/all-in-a-days-work-fighting-log4shell-with-process-insights
+
+- [Huntress Labs Blog] Diversity in Security Awareness Training Content
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/diversity-in-security-awareness-training-content
+
+- [Huntress Labs Blog] How to Crush Cybercriminals with Managed Antivirus | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-to-crush-cybercriminals-with-managed-antivirus
+
+- [Huntress Labs Blog] Scaling To Protect the 99% | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/scaling-to-protect-the-99
+
+- [Huntress Labs Blog] Triangulation | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/triangulation
+
+- [Huntress Labs Blog] Recap: Navigating the NIST Cybersecurity Framework | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/recap-navigating-the-nist-cybersecurity-framework
+
+- [Huntress Labs Blog] Out of Sight, Top of Mind: Showing the Hidden Value of Cybersecurity | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/out-of-sight-top-of-mind-showing-the-hidden-value-of-cybersecurity
+
+- [Huntress Labs Blog] Rapid Response: Microsoft Office RCE - “Follina” MSDT Attack | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/microsoft-office-remote-code-execution-follina-msdt-bug
+
+- [Huntress Labs Blog] The Mechanics of Defense Evasion | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-mechanics-of-defense-evasion
+
+- [Huntress Labs Blog] How Huntress Protects SMBs | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-huntress-protects-smbs
+
+- [Huntress Labs Blog] Huntress API Is Now in Public Beta!
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-api-is-now-in-public-beta
+
+- [Huntress Labs Blog] Evicting the Adversary | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/evicting-the-adversary
+
+- [Huntress Labs Blog] One Year Later: Lessons Learned from the Colonial Pipeline Cyberattack | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/one-year-later-lessons-learned-from-the-colonial-pipeline-cyberattack
+
+- [Huntress Labs Blog] What Is Defense Evasion? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-defense-evasion
+
+- [Huntress Labs Blog] Bring Your Own Command & Control (BYOC2)
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/bring-your-own-command-control-byoc2
+
+- [Huntress Labs Blog] Breaking Down the NIST Cybersecurity Framework
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/breaking-down-the-nist-cybersecurity-framework
+
+- [Huntress Labs Blog] How Huntress Can Complement—Not Complicate—Your Security Stack | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-huntress-can-complement-not-complicate-your-security-stack
+
+- [Huntress Labs Blog] Product Support the Huntress Way | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/product-support-the-huntress-way
+
+- [Huntress Labs Blog] What’s Your Backup Plan? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/whats-your-backup-plan
+
+- [Huntress Labs Blog] A Day in the Life of a Security Researcher | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/a-day-in-the-life-of-a-security-researcher
+
+- [Huntress Labs Blog] A Day in the Life of a Threat Analyst | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/a-day-in-the-life-of-a-threat-analyst
+
+- [Huntress Labs Blog] What Is Endpoint Detection and Response? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-endpoint-detection-and-response
+
+- [Huntress Labs Blog] Ending the Culture of Silence in Cybersecurity | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ending-the-culture-of-silence-in-cyber-security
+
+- [Huntress Labs Blog] An Inside Look at Huntress’ Platform Vision and Mission | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/an-inside-look-at-huntress-platform-vision-and-mission
+
+- [Huntress Labs Blog] Targeted APT Activity: BABYSHARK Is Out for Blood | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/targeted-apt-activity-babyshark-is-out-for-blood
+
+- [Huntress Labs Blog] NERC CIP Cyber Security Awareness Program | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/nerc-cip-cyber-security-awareness-program
+
+- [Huntress Labs Blog] Hackers No Hashing: Randomizing API Hashes to Evade Cobalt Strike Shellcode Detection
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/hackers-no-hashing-randomizing-api-hashes-to-evade-cobalt-strike-shellcode-detection
+
+- [Huntress Labs Blog] Balancing the Scales of Cybersecurity and Insurance
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/balancing-the-scales-of-cybersecurity-and-insurance
+
+- [Huntress Labs Blog] Leaving the Silo: MSP Vendors Give Back | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/leaving-the-silo-msp-vendors-give-back
+
+- [Huntress Labs Blog] What Is Managed Detection and Response? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-managed-detection-and-response
+
+- [Huntress Labs Blog] Threat Recap: Huntress Managed EDR Trial by Fire | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threat-recap-process-insights-trial-by-fire
+
+- [Huntress Labs Blog] A Journey Back to the World of MSP Security | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/a-journey-back-to-the-world-of-msp-security
+
+- [Huntress Labs Blog] A Beginner’s Guide to Phishing Simulation Training for Employees | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/a-beginners-guide-to-phishing-simulation-training-for-employees
+
+- [Huntress Labs Blog] Hot Takes and Cyber Predictions for 2022 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/hot-takes-and-cyber-predictions-for-2022
+
+- [Huntress Labs Blog] VMware Horizon Servers Actively Being Hit With Cobalt Strike | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cybersecurity-advisory-vmware-horizon-servers-actively-being-hit-with-cobalt-strike
+
+- [Huntress Labs Blog] Ransomware Canaries: A 2022 Update | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ransomware-canaries-a-2022-update
+
+- [Huntress Labs Blog] Huntress Donates $100,000 to DIVD Bug Bounty Program | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-donates-100000-to-divd-bug-bounty-program
+
+- [Huntress Labs Blog] 2021 in Review (And Other Horror Stories) | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/2021-in-review-and-other-horror-stories
+
+- [Huntress Labs Blog] Making the Switch to Huntress Managed Microsoft Defender| Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/making-the-switch-to-huntress-managed-antivirus-partner-perspectives
+
+- [Huntress Labs Blog] Texas HB 3834 Cyber Security Awareness Training Requirements | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/texas-hb-3834-cyber-security-awareness-training-requirements
+
+- [Huntress Labs Blog] Log4Shell: A Tradecraft Tuesday Recap | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-year-from-hell-plus-log4shell-a-tradecraft-tuesday-recap
+
+- [Huntress Labs Blog] Ditching FUD for FUN in Security Awareness Training | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ditching-fud-for-fun-in-security-awareness-training
+
+- [Huntress Labs Blog] Critical RCE Vulnerability: log4j - CVE-2021-44228 | Huntress
+  Type: mention
+  CVEs: CVE-2021-44228
+  Link: https://www.huntress.com/blog/critical-rce-vulnerability-log4j-cve-2021-44228
+
+- [Huntress Labs Blog] Critical RCE Vulnerability Updates (log4j - CVE-2021-44228) | Huntress
+  Type: mention
+  CVEs: CVE-2021-44228
+  Link: https://www.huntress.com/blog/rapid-response-critical-rce-vulnerability-is-affecting-java
+
+- [Huntress Labs Blog] The True Value of the Huntress SOC Team | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/dollars-and-sense-the-true-value-of-a-human-threatops-team
+
+- [Huntress Labs Blog] Is There a Right Way to Set Up Two-Factor Authentication? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/is-there-a-right-way-to-set-up-two-factor-authentication
+
+- [Huntress Labs Blog] Investigating Unauthorized Access: Huntress QA Environment Incident
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/investigating-unauthorized-access-huntress-qa-environment-incident
+
+- [Huntress Labs Blog] How Ransomware Works and Why It's a Hacker Favorite | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-ransomware-works-and-why-its-a-hacker-favorite
+
+- [Huntress Labs Blog] Top Tips and Takeaways from hack_it 2021.2 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/top-tips-and-takeaways-from-hack-it-2021-2
+
+- [Huntress Labs Blog] Vulnerabilities and Information Disclosure in MSP Survey Software | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/vulnerabilities-and-information-disclosure-in-msp-survey-software
+
+- [Huntress Labs Blog] Evolving the Hunt: Host Isolation for Smarter Defense
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/evolving-the-hunt-host-isolation-for-smarter-defense
+
+- [Huntress Labs Blog] Hackers Are Exploiting a Vulnerability in Billing Software to Deploy Ransomware | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threat-advisory-hackers-are-exploiting-a-vulnerability-in-popular-billing-software-to-deploy-ransomware
+
+- [Huntress Labs Blog] New Faces and Features to Help You Evolve the Hunt | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/new-faces-and-features-to-help-you-evolve-the-hunt
+
+- [Huntress Labs Blog] Managed Antivirus Is Here!
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/managed-antivirus-is-here
+
+- [Huntress Labs Blog] Top 4 Tips for Cybersecurity Awareness Month | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/top-4-tips-for-cybersecurity-awareness-month
+
+- [Huntress Labs Blog] Free Training Tool for Unlocked Computers
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/free-training-tool-for-unlocked-computers
+
+- [Huntress Labs Blog] Learn to Think Like a Hacker at hack_it 2021.2 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/learn-to-think-like-a-hacker-at-hack-it-2021-2
+
+- [Huntress Labs Blog] The Top Four CVEs Attackers Exploit | Huntress
+  Type: rumor
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-top-four-cves-attackers-exploit
+
+- [Huntress Labs Blog] Should We Be Playing Offense or Defense in Cybersecurity? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/should-we-be-playing-offense-or-defense-in-cybersecurity
+
+- [Huntress Labs Blog] Threat Advisory: Hackers Are Exploiting CVE-2021-40444 | Huntress
+  Type: mention
+  CVEs: CVE-2021-40444
+  Link: https://www.huntress.com/blog/cybersecurity-advisory-hackers-are-exploiting-cve-2021-40444
+
+- [Huntress Labs Blog] Malware Deep Dive: Investigating a Foothold and Uncovering the Payload
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/malware-deep-dive-investigating-a-foothold-and-uncovering-the-payload
+
+- [Huntress Labs Blog] ProxyShell vs. ProxyLogon: What's the Difference? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/proxyshell-vs-proxylogon-whats-the-difference
+
+- [Huntress Labs Blog] Bullseye: A Story of a Targeted Cyberattack | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/bullseye-a-story-of-a-targeted-cyberattack
+
+- [Huntress Labs Blog] Microsoft Exchange Servers Still Vulnerable to ProxyShell Exploit | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/rapid-response-microsoft-exchange-servers-still-vulnerable-to-proxyshell-exploit
+
+- [Huntress Labs Blog] Snakes on a Domain: An Analysis of a Python Malware Loader | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/snakes-on-a-domain-an-analysis-of-a-python-malware-loader
+
+- [Huntress Labs Blog] A Brief Evolution of Hacker Tradecraft | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/a-brief-evolution-of-hacker-tradecraft
+
+- [Huntress Labs Blog] Breaking Down the Cost of Cybersecurity | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/breaking-down-the-cost-of-cybersecurity
+
+- [Huntress Labs Blog] Lessons Learned During the Kaseya VSA Supply Chain Attack | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/a-recap-of-events-and-lessons-learned-during-the-kaseya-vsa-supply-chain-attack
+
+- [Huntress Labs Blog] The Age of Rapid-Response Managed Detection and Response | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-age-of-rapid-response-managed-detection-and-response
+
+- [Huntress Labs Blog] Why Persistence Is a Staple for Today’s Hackers | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/why-persistence-is-a-staple-for-todays-hackers
+
+- [Huntress Labs Blog] The Hunt to Find Origins of Kaseya's VSA Mass Ransomware Incident | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/security-researchers-hunt-to-discover-origins-of-the-kaseya-vsa-mass-ransomware-incident
+
+- [Huntress Labs Blog] Experts Weigh in on the State of Email-Based Threats | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/experts-weigh-in-on-the-state-of-email-based-threats
+
+- [Huntress Labs Blog] Huntress VSA Vaccine: Acting Like Hackers To Protect Our Partners | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-huntress-vsa-vaccine-acting-like-hackers-to-protect-our-partners
+
+- [Huntress Labs Blog] Rapid Response: Mass MSP Ransomware Incident | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/rapid-response-kaseya-vsa-mass-msp-ransomware-incident
+
+- [Huntress Labs Blog] Critical Vuln.: PrintNightmare Exposes Windows Servers to RCE | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/critical-vulnerability-printnightmare-exposes-windows-servers-to-remote-code-execution
+
+- [Huntress Labs Blog] Reducing Cyber Risk and Liability with Managed Threat Detection | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/reducing-cyber-risk-and-liability-with-managed-threat-detection
+
+- [Huntress Labs Blog] ThreatOps Analysis: Keyed Malware | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/threatops-analysis-keyed-malware
+
+- [Huntress Labs Blog] Creating a Better Why for Cyber Security Awareness Training | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/creating-a-better-why-for-cyber-security-awareness-training
+
+- [Huntress Labs Blog] How Are Hackers Sneaking Past Your Automated Systems? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-are-hackers-sneaking-past-your-automated-systems
+
+- [Huntress Labs Blog] Discovering a Ransomware Remedy in the Wild | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/discovering-a-ransomware-remedy-in-the-wild
+
+- [Huntress Labs Blog] How a College Student Lost $10,000 to "The IRS" in an Apple Gift Card Scam | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-a-college-student-lost-10-000-to-the-irs
+
+- [Huntress Labs Blog] Endpoint Protection: Promises vs. Reality | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/endpoint-protection-promises-vs-reality
+
+- [Huntress Labs Blog] Understanding Your SMB Clients' Cybersecurity Needs
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/understanding-your-smb-clients-cybersecurity-needs
+
+- [Huntress Labs Blog] Cobalt Strikes Again: An Analysis of Obfuscated Malware | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cobalt-strike-analysis-of-obfuscated-malware
+
+- [Huntress Labs Blog] Cyber Security Insurance Perspective on Ransomware | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cybersecurity-insurance-perspective-on-ransomware
+
+- [Huntress Labs Blog] 7 Takeaways from the Executive Order on Improving Cybersecurity | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/7-takeaways-from-the-34-page-executive-order-on-improving-the-nations-cybersecurity
+
+- [Huntress Labs Blog] What’s the Real Cost of Cybersecurity for Your SMB Clients? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/whats-the-real-cost-of-cybersecurity-for-your-smb-clients
+
+- [Huntress Labs Blog] Huntress Series B: Our Next Chapter of Growth
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-series-b-our-next-chapter-of-growth
+
+- [Huntress Labs Blog] From PowerShell to Payload: An Analysis of Weaponized Malware | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/from-powershell-to-payload-an-analysis-of-weaponized-malware
+
+- [Huntress Labs Blog] Scale Your Security Operations with Confidence | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/scale-your-security-operations-with-confidence
+
+- [Huntress Labs Blog] Emerging Cybersecurity Trends That May Impact Your SMB Clients | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/emerging-cybersecurity-trends-that-may-impact-your-smb-clients
+
+- [Huntress Labs Blog] What Is a Persistent Foothold? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-a-persistent-foothold
+
+- [Huntress Labs Blog] Top Takeaways from hack_it 2021 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/top-takeaways-from-hack-it-2021
+
+- [Huntress Labs Blog] How Hackers Exploit Windows Administrative Shares
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-hackers-exploit-windows-administrative-shares
+
+- [Huntress Labs Blog] Abusing Ngrok: Hackers at the End of the Tunnel | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/abusing-ngrok-hackers-at-the-end-of-the-tunnel
+
+- [Huntress Labs Blog] Peeling Back the Layers of .NET Malware
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/peeling-back-the-layers-of-net-malware
+
+- [Huntress Labs Blog] Rapid Response: Mass Exploitation of On-Prem Exchange Servers | Huntress
+  Type: verified/active
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/rapid-response-mass-exploitation-of-on-prem-exchange-servers
+
+- [Huntress Labs Blog] What Is Human-Powered Threat Hunting? | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/what-is-human-powered-threat-hunting
+
+- [Huntress Labs Blog] Zero-Day Vulnerabilities in Platforms Could Leave MSPs Exposed | Huntress
+  Type: likely/poc
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/zero-day-vulnerabilities-in-popular-event-management-platforms-could-leave-msps-open-to-attack
+
+- [Huntress Labs Blog] Cybersecurity Education Is the Key to Outsmarting Hackers | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cybersecurity-education-the-key-to-outsmarting-hackers
+
+- [Huntress Labs Blog] Malware Deep Dive: Examining A PowerShell Payload | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/malware-deep-dive-examining-a-powershell-payload
+
+- [Huntress Labs Blog] Huntress Service: Managed Antivirus | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-service-managed-antivirus
+
+- [Huntress Labs Blog] Why Microsoft Defender Antivirus Is Worth Another Look | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/why-microsoft-defender-antivirus-is-worth-another-look
+
+- [Huntress Labs Blog] Malware Under The Microscope: Manual Analysis
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/malware-under-the-microscope-manual-analysis
+
+- [Huntress Labs Blog] Redefining Beta | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/redefining-beta
+
+- [Huntress Labs Blog] Top Hacker Tradecraft That Caught Our Eye in 2020 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/top-hacker-tradecraft-that-caught-our-eye-in-2020
+
+- [Huntress Labs Blog] Annual Security Awareness Training is a Waste of Time | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/annual-security-awareness-training-is-a-waste-of-time
+
+- [Huntress Labs Blog] Supply Chain Exploitation of SolarWinds Orion Software | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/rapid-response-supply-chain-exploitation-of-solarwinds-orion-software
+
+- [Huntress Labs Blog] Rapid Response: TrickBoot | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/rapid-response-trickboot
+
+- [Huntress Labs Blog] I Have a Lot to be Thankful for in 2020
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/i-have-a-lot-to-be-thankful-for-in-2020
+
+- [Huntress Labs Blog] Tried and True Hacker Technique: DOS Obfuscation | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/tried-and-true-hacker-technique-dos-obfuscation
+
+- [Huntress Labs Blog] Huntress Service: Partner Enablement | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-service-partner-enablement
+
+- [Huntress Labs Blog] Cybersecurity Lessons We Learned from hack_it 2020 | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/cybersecurity-lessons-we-learned-from-hack-it-2020
+
+- [Huntress Labs Blog] Phishing, Office 365 and the Commercialization of Cybercrime | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/phishing-office-365-and-the-commercialization-of-cybercrime
+
+- [Huntress Labs Blog] Hiding in Plain Sight: Part 2
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/hiding-in-plain-sight-part-2
+
+- [Huntress Labs Blog] Huntress Service: External Recon | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-service-external-recon
+
+- [Huntress Labs Blog] Huntress Service: Ransomware Canaries | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-service-ransomware-canaries
+
+- [Huntress Labs Blog] Evolving the Hunt
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/evolving-the-hunt
+
+- [Huntress Labs Blog] Hiding In Plain Sight | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/hiding-in-plain-sight
+
+- [Huntress Labs Blog] The Impact of Data Breaches on Our Society | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/the-impact-of-data-breaches-on-our-society
+
+- [Huntress Labs Blog] How One Criminal Tried to Sell an MSP on the Dark Web | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-one-criminal-attempted-to-sell-an-msp-on-the-dark-web
+
+- [Huntress Labs Blog] Validating the SolarWinds N-central “Dumpster Diver” Vulnerability
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/validating-the-solarwinds-n-central-dumpster-diver-vulnerability-5e3a045982e5
+
+- [Huntress Labs Blog] Validating the Bishop Fox Findings in ConnectWise Control | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/validating-the-bishop-fox-findings-in-connectwise-control
+
+- [Huntress Labs Blog] Assisted Remediation in Action | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/assisted-remediation-in-action
+
+- [Huntress Labs Blog] Huntress Development Notes: Updating the Updater
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-development-updating-the-updater-e6ed9718a2a9
+
+- [Huntress Labs Blog] Keeping up with BlueKeep
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/keeping-up-with-bluekeep-d0676b976841
+
+- [Huntress Labs Blog] Deep Dive: A LNK in the Chain
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/deep-dive-a-lnk-in-the-chain-6c0d1072160d
+
+- [Huntress Labs Blog] Incident Education: Sales Ammo for the IT Arsenal
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/incident-education-sales-ammo-for-the-it-arsenal-fea784026fe8
+
+- [Huntress Labs Blog] Rapid Response: ASUS Live Update Attack (Operation ShadowHammer)
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/faq-asus-liveupdate-attack-operation-shadowhammer-9fc9c03b2da9
+
+- [Huntress Labs Blog] CVE-2017-18362: Arbitrary SQL Execution in ManagedITSync Integration
+  Type: mention
+  CVEs: CVE-2017-18362
+  Link: https://www.huntress.com/blog/cve-2017-18362-arbitrary-sql-injection-in-mangeditsync-integration-ba142ff24f4d
+
+- [Huntress Labs Blog] Failing to Revive AUTOEXEC.BAT on Windows 7 & 10
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/failing-to-revive-autoexec-bat-on-windows-7-10-ca9955177e83
+
+- [Huntress Labs Blog] Distrusting Symantec Issued Certificates
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/distrusting-symantec-issued-certificates-b8bcb332fd22
+
+- [Huntress Labs Blog] Attackers Abuse Trust with Indirection
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/attackers-abuse-trust-with-indirection-e8addc1ba8f
+
+- [Huntress Labs Blog] Ask Huntress: Fake .XPS Invoice Leading to Credential Phishing
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/ask-huntress-fake-xps-invoice-leading-to-credential-phishing-page-a79e21e93dc0
+
+- [Huntress Labs Blog] Understanding Potentially Unwanted Programs Part I — It’s Not Always Malware
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/understanding-potentially-unwanted-programs-part-i-its-not-always-malware-6383d625265e
+
+- [Huntress Labs Blog] Deep Dive: Kaseya VSA Mining Payload
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/deep-dive-kaseya-vsa-mining-payload-c0ac839a0e88
+
+- [Huntress Labs Blog] Huntress Labs to Host Hands-On “Hacking Windows” Training for MSPs at IT Nation
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-labs-to-host-hands-on-hacking-windows-training-for-msps-at-it-nation-afe8681c1192
+
+- [Huntress Labs Blog] Abusing Trusted Applications with Nested Execution
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/abusing-trusted-applications-with-nested-execution
+
+- [Huntress Labs Blog] MSP Moment: Worming Malware Brings New Complexities to the Threat Landscape
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/msp-moment-worming-malware-brings-new-complexities-to-the-threat-landscape-442f3d147acb
+
+- [Huntress Labs Blog] Redosdru — Encrypting DLL Payloads to Avoid On-Disk Signatures
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/redosdru-encrypting-dll-payloads-to-avoid-on-disk-signatures-c403b3159485
+
+- [Huntress Labs Blog] Deep Dive: Squashing an MSSQL Attack
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/deep-dive-squashing-an-mssql-attack-a0e1f40f085c
+
+- [Huntress Labs Blog] Security Awareness Training Will Prevent Ransomware | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/security-awareness-training-will-prevent-ransomware
+
+- [Huntress Labs Blog] MSP Moment: Squashing an MSSQL Attack
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/msp-moment-squashing-an-mssql-attack-acc08886f367
+
+- [Huntress Labs Blog] Troubleshooting Procmon & Sysmon v3.32
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/troubleshooting-procmon-sysmon-v3-32-c4397dc75f50
+
+- [Huntress Labs Blog] Huntress Wins ConnectWise IT Nation Partner’s Choice Award!
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/huntress-wins-connectwise-it-nation-partners-choice-award-c8e06f9d6e10
+
+- [Huntress Labs Blog] How do you protect computers from attackers if you’re not familiar with hacking techniques?
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-do-you-protect-computers-from-attackers-if-youre-not-familiar-with-hacking-techniques-cb1c836f92ce
+
+- [Huntress Labs Blog] How My StubHub Account Got Hacked | Huntress
+  Type: none
+  CVEs: N/A
+  Link: https://www.huntress.com/blog/how-my-stubhub-account-got-hacked
