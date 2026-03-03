@@ -1,0 +1,21 @@
+rss:
+  - name: Rapid7 Blog
+    url: https://www.rapid7.com/blog/rss/
+  - name: Tenable Blog
+    url: https://www.tenable.com/blog/rss.xml
+  - name: Qualys Blog
+    url: https://blog.qualys.com/feed
+  - name: Unit42 (Palo Alto Networks)
+    url: https://unit42.paloaltonetworks.com/feed/
+  - name: Huntress Labs Blog
+    url: https://www.huntress.com/blog/rss.xml
+
+json:
+  # Add JSON APIs here if available; example structure:
+  # - name: VulnCheck (Example)
+  #   url: https://api.example.com/feed/recent.json
+  #   headers: { "Authorization": "Bearer ${VULNCHECK_TOKEN}" }
+
+html:
+  # Only if no feed exists (respect robots.txt and ToS)
+  # - name: ZDI Blog
