@@ -1,0 +1,254 @@
+diff --git a/config/sources.yaml b/config/sources.yaml
+index 1a2b3c4..5d6e7f8 100644
+--- a/config/sources.yaml
++++ b/config/sources.yaml
+@@ -1,17 +1,22 @@
+ rss:
+   - name: Rapid7 Blog
+     url: https://www.rapid7.com/blog/rss/
+   - name: Tenable Blog
+     url: https://www.tenable.com/blog/rss.xml
+   - name: Qualys Blog
+     url: https://blog.qualys.com/feed
+   - name: Unit42 (Palo Alto Networks)
+     url: https://unit42.paloaltonetworks.com/feed/
+-  - name: Huntress Labs Blog
+-    url: https://www.huntress.com/blog/rss.xml
++  # Huntress produces a high volume of general-content posts that do not
++  # consistently include CVEs, zero-day, or authoritative exploitation claims.
++  # Suppress by default to reduce noise; re-enable later if needed.
++  # - name: Huntress Labs Blog
++  #   url: https://www.huntress.com/blog/rss.xml
+ 
+ json:
+   # Add JSON APIs here if available; example structure:
+   # - name: VulnCheck (Example)
+   #   url: https://api.example.com/feed/recent.json
+   #   headers: { "Authorization": "Bearer ${VULNCHECK_TOKEN}" }
+ 
+ html:
+   # Only if no feed exists (respect robots.txt and ToS)
+   # - name: ZDI Blog
+   #   url: https://www.zerodayinitiative.com/blog/
+diff --git a/docs/index.md b/docs/index.md
+index 9abc111..d0ef222 100644
+--- a/docs/index.md
++++ b/docs/index.md
+@@ -1,7 +1,7 @@
+ ---
+ layout: default
+ title: OSINT Monitor
+ ---
+ 
+ # OSINT Monitor  
+ Public OSINT references to exploitation, proof‑of‑concept activity, or zero‑day claims.  
+ Items listed here are automatically filtered to exclude vulnerabilities already present in the Known Exploited Vulnerabilities (KEV) Catalog.
+ 
+-_Last updated: **{{ site.data.latest.generated_at }}**_
++_Last updated: **{{ site.data.latest.generated_at | default: "N/A" }}**_
+ 
+ ---
+ 
+-## Results
++## Results
+ 
+-<table>
++{% if site.data.latest.items and site.data.latest.items.size > 0 %}
++<table>
+   <thead>
+     <tr>
+       <th>Source</th>
+@@ -37,7 +37,11 @@
+       </tr>
+     {% endfor %}
+   </tbody>
+ </table>
++{% else %}
++<p><em>No qualifying items yet (requires CVE, explicit zero‑day mention, or clear exploitation claim). Check back soon.</em></p>
++{% endif %}
+ 
+ ---
+ 
+ **Note:** This page is auto‑generated from public sources. Respect each source’s terms of service.
+diff --git a/scripts/osint_scraper.py b/scripts/osint_scraper.py
+index 2468ace..5b77c21 100755
+--- a/scripts/osint_scraper.py
++++ b/scripts/osint_scraper.py
+@@ -1,32 +1,33 @@
+ #!/usr/bin/env python3
+ import os, re, json, time, datetime, hashlib
+ from typing import List, Dict, Any
+ import requests, feedparser, yaml
+ from bs4 import BeautifulSoup
+ 
+ DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
+ CONFIG_DIR = os.path.join(os.path.dirname(__file__), "..", "config")
+ SOURCES_FILE = os.path.join(CONFIG_DIR, "sources.yaml")
+ LATEST_FILE = os.path.join(DATA_DIR, "latest.json")
+ LAST_SEEN_FILE = os.path.join(DATA_DIR, "last_seen.json")
+ EMAIL_SUMMARY_FILE = os.path.join(DATA_DIR, "email_summary.txt")
+ 
+ DEFAULT_KEV = os.getenv(
+     "KEV_FEED_URL",
+     "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+ )
+ 
+ USER_AGENT = "GitHubActions-OSINT-Monitor/1.0 (+https://github.com)"
+ TIMEOUT = 20
+ SLEEP_BETWEEN_REQ = 1.0
+ 
+ CVE_RE = re.compile(r"\bCVE-\d{4}-\d{4,7}\b", re.IGNORECASE)
+ 
+ KEYWORDS = [
+     "exploited in the wild",
+     "actively exploited",
+     "exploit available",
+     "proof-of-concept",
+-    "poc",
++    "poc",
+     "0-day",
+     "zero-day",
+     "under active exploitation",
+     "observed exploitation",
+     "failed exploitation",
+     "successful exploitation",
+@@ -91,6 +92,34 @@ def collect_from_html(url: str, name: str) -> List[Dict[str, Any]]:
+     })
+     return out
+ 
++def is_strong_indicator(text: str) -> bool:
++    """
++    Returns True if the text contains explicit zero-day or authoritative exploitation language.
++    """
++    t = text.lower()
++    # zero-day indicators
++    if ("zero-day" in t) or ("0-day" in t) or ("zeroday" in t):
++        return True
++    # authoritative exploitation phrases
++    exploitation_terms = [
++        "exploited in the wild",
++        "actively exploited",
++        "attackers are exploiting",
++        "exploitation in the wild",
++        "under active exploitation",
++        "observed exploitation"
++    ]
++    return any(term in t for term in exploitation_terms)
++
+ def main():
+     sources = load_sources()
+     kev = load_kev_set(DEFAULT_KEV)
+     seen = load_json(LAST_SEEN_FILE, {"items": [], "cves": []})
+     seen_urls = {i.get("url") for i in seen.get("items", [])}
+     seen_cves = set(seen.get("cves", []))
+ 
+     all_items: List[Dict[str, Any]] = []
+ 
+     for s in sources.get("rss", []) or []:
+         all_items += collect_from_rss(s["url"], s["name"])
+@@ -101,24 +130,48 @@ def main():
+     for s in sources.get("html", []) or []:
+         all_items += collect_from_html(s["url"], s["name"])
+ 
+-    filtered = []
+-    for it in all_items:
+-        cves = set(it.get("cves") or [])
+-        if not cves or not cves.issubset(kev):
+-            filtered.append(it)
++    # STRICT FILTERING:
++    # Keep ONLY items with:
++    # - at least one CVE, OR
++    # - explicit zero-day mention, OR
++    # - clear exploitation claims
++    strict_filtered: List[Dict[str, Any]] = []
++    for it in all_items:
++        title = it.get("title", "")
++        summary = it.get("summary", "")
++        description = it.get("description", "")
++        text_blob = f"{title} {summary} {description}"
++        cves_list = it.get("cves") or []
++
++        # If there are CVEs, keep them (subject to KEV filtering below)
++        keep = False
++        if cves_list:
++            keep = True
++        elif is_strong_indicator(text_blob):
++            keep = True
++
++        if not keep:
++            continue
++
++        # Filter: if there ARE CVEs, drop ONLY if ALL are already in KEV
++        cves = set(cves_list)
++        if cves and cves.issubset(kev):
++            continue
++
++        strict_filtered.append(it)
+ 
+     # Dedup by URL (fallback to source+title)
+     dedup = {}
+-    for it in filtered:
++    for it in strict_filtered:
+         key = it.get("url") or hash_key(it["source"], it["title"])
+         if key not in dedup:
+             dedup[key] = it
+     final_items = list(dedup.values())
+ 
+     # Determine "new" vs last_seen
+     new_items = []
+     new_cves = set()
+ 
+     for it in final_items:
+         url = it.get("url")
+         cves = it.get("cves") or []
+@@ -128,28 +181,31 @@ def main():
+         new_cves.update(cves)
+ 
+-    # Update state only when new items exist (to reduce commit noise)
+-    if new_items:
+-        # Persist latest snapshot
+-        save_json(LATEST_FILE, {
+-            "generated_at": datetime.datetime.utcnow().isoformat() + "Z",
+-            "items": final_items
+-        })
+-        # Persist seen set
+-        save_json(LAST_SEEN_FILE, {
+-            "items": final_items,
+-            "cves": sorted(seen_cves.union(new_cves))
+-        })
++    # Always write latest.json so the page has a timestamped snapshot even
++    # when there are no new items.
++    save_json(LATEST_FILE, {
++        "generated_at": datetime.datetime.utcnow().isoformat() + "Z",
++        "items": final_items
++    })
++
++    # Update seen set only when there are new items (still reduces noise)
++    if new_items:
++        save_json(LAST_SEEN_FILE, {
++            "items": final_items,
++            "cves": sorted(seen_cves.union(new_cves))
++        })
+ 
+     # Build plaintext summary for Issue comment
+     lines = []
+     if new_items:
+         lines.append("New non‑KEV exploitation activity detected:\n")
+         for it in new_items:
+             title = it["title"]
+             src = it["source"]
+             url = it["url"]
+             claim = it["claim"]
+             cves = ", ".join(it["cves"]) if it["cves"] else "N/A"
+             lines.append(f"- [{src}] {title}\n  Type: {claim}\n  CVEs: {cves}\n  Link: {url}\n")
+     else:
+-        lines.append("No new non‑KEV items since the last run.\n")
++        lines.append("No new qualifying items since the last run (requires CVE, explicit zero‑day mention, or clear exploitation claim).\n")
+ 
+     os.makedirs(DATA_DIR, exist_ok=True)
+     with open(EMAIL_SUMMARY_FILE, "w", encoding="utf-8") as f:
+         f.write("\n".join(lines))
+ 
+     print(f"[info] collected={len(all_items)}; after strict filter={len(final_items)}; new={len(new_items)}")
+ 
+ if __name__ == "__main__":
