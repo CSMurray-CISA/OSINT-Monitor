@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-03T16:37:20.930320Z",
+  "generated_at": "2026-03-04T14:10:29.095537Z",
   "items": [
+    {
+      "source": "Rapid7 Blog",
+      "type": "rss",
+      "title": "Rapid7 and Our Global Partners Are Elevating Security Together",
+      "url": "https://www.rapid7.com/blog/post/c-rapid7-elevating-security-global-partners",
+      "published": "Wed, 04 Mar 2026 13:38:16 GMT",
+      "cves": [],
+      "claim": "none"
+    },
     {
       "source": "Rapid7 Blog",
       "type": "rss",
@@ -250,20 +259,6 @@
       "published": "Tue, 10 Feb 2026 18:00:00 GMT",
       "cves": [],
       "claim": "none"
-    },
-    {
-      "source": "Rapid7 Blog",
-      "type": "rss",
-      "title": "CVE-2026-1731: Critical Unauthenticated Remote Code Execution in BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA)",
-      "url": "https://www.rapid7.com/blog/post/etr-cve-2026-1731-critical-unauthenticated-remote-code-execution-rce-beyondtrust-remote-support-rs-privileged-remote-access-pra",
-      "published": "Mon, 09 Feb 2026 19:15:00 GMT",
-      "cves": [
-        "CVE-2024-12356",
-        "CVE-2024-12686",
-        "CVE-2025-1094",
-        "CVE-2026-1731"
-      ],
-      "claim": "likely/poc"
     },
     {
       "source": "Qualys Blog",

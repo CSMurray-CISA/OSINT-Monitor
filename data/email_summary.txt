@@ -1,1 +1,6 @@
-No new non‑KEV items since the last run.
+New non‑KEV exploitation activity detected:
+
+- [Rapid7 Blog] Rapid7 and Our Global Partners Are Elevating Security Together
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/c-rapid7-elevating-security-global-partners
