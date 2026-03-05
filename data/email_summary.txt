@@ -1,1 +1,6 @@
-No new non‑KEV items since the last run.
+New non‑KEV exploitation activity detected:
+
+- [Rapid7 Blog] From Code to Runtime: The Critical Role of DAST in Application Security
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/cds-code-to-runtime-dast-in-application-security

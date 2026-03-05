@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-04T14:10:29.095537Z",
+  "generated_at": "2026-03-05T15:27:43.612749Z",
   "items": [
+    {
+      "source": "Rapid7 Blog",
+      "type": "rss",
+      "title": "From Code to Runtime: The Critical Role of DAST in Application Security",
+      "url": "https://www.rapid7.com/blog/post/cds-code-to-runtime-dast-in-application-security",
+      "published": "Thu, 05 Mar 2026 14:26:34 GMT",
+      "cves": [],
+      "claim": "none"
+    },
     {
       "source": "Rapid7 Blog",
       "type": "rss",
@@ -250,15 +259,6 @@
         "CVE-2026-23655"
       ],
       "claim": "verified/active"
-    },
-    {
-      "source": "Rapid7 Blog",
-      "type": "rss",
-      "title": "Measuring AI Security: Separating Signal from Panic",
-      "url": "https://www.rapid7.com/blog/post/tr-measuring-ai-security-mcp-exposure",
-      "published": "Tue, 10 Feb 2026 18:00:00 GMT",
-      "cves": [],
-      "claim": "none"
     },
     {
       "source": "Qualys Blog",
