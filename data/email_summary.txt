@@ -1,1 +1,6 @@
-No new non‑KEV items since the last run.
+New non‑KEV exploitation activity detected:
+
+- [Rapid7 Blog] Metasploit Wrap-Up 03/06/2026
+  Type: mention
+  CVEs: CVE-2025-69516, CVE-2026-27175
+  Link: https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-03-06-2026
