@@ -1,6 +1,1 @@
-New non‑KEV exploitation activity detected:
-
-- [Unit42 (Palo Alto Networks)] An Investigation Into Years of Undetected Operations Targeting High-Value Sectors
-  Type: none
-  CVEs: N/A
-  Link: https://unit42.paloaltonetworks.com/cl-unk-1068-targets-critical-sectors/
+No new non‑KEV items since the last run.
