@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T15:27:43.612749Z",
+  "generated_at": "2026-03-06T11:36:03.239021Z",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -290,6 +290,15 @@
     {
       "source": "Unit42 (Palo Alto Networks)",
       "type": "rss",
+      "title": "An Investigation Into Years of Undetected Operations Targeting High-Value Sectors",
+      "url": "https://unit42.paloaltonetworks.com/cl-unk-1068-targets-critical-sectors/",
+      "published": "Fri, 06 Mar 2026 11:00:35 +0000",
+      "cves": [],
+      "claim": "none"
+    },
+    {
+      "source": "Unit42 (Palo Alto Networks)",
+      "type": "rss",
       "title": "Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild",
       "url": "https://unit42.paloaltonetworks.com/ai-agent-prompt-injection/",
       "published": "Tue, 03 Mar 2026 11:00:30 +0000",
@@ -419,15 +428,6 @@
       "title": "Understanding the Russian Cyberthreat to the 2026 Winter Olympics",
       "url": "https://unit42.paloaltonetworks.com/russian-cyberthreat-2026-winter-olympics/",
       "published": "Thu, 29 Jan 2026 21:30:47 +0000",
-      "cves": [],
-      "claim": "none"
-    },
-    {
-      "source": "Unit42 (Palo Alto Networks)",
-      "type": "rss",
-      "title": "Happy 9th Anniversary, CTA: A Celebration of Collaboration in Cyber Defense",
-      "url": "https://unit42.paloaltonetworks.com/cta-9th-anniversary/",
-      "published": "Sat, 24 Jan 2026 00:00:53 +0000",
       "cves": [],
       "claim": "none"
     },
