@@ -1,1 +1,6 @@
-No new non‑KEV items since the last run.
+New non‑KEV exploitation activity detected:
+
+- [Rapid7 Blog] Accelerate Attack Surface Discovery with new AI-Powered Connectors
+  Type: none
+  CVEs: N/A
+  Link: https://www.rapid7.com/blog/post/pt-accelerate-attack-surface-discovery-with-new-ai-powered-connectors
